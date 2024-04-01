@@ -1,0 +1,469 @@
+,row.number,taxa,match_type,multiple_matches,wcvp_name,wcvp_status,keep,resolved_match_type
+1,14,Mimosa acerba var. acerba,Fuzzy (edit distance),FALSE,Hovenia acerba var. acerba,Accepted,0,Fuzzy match rejected
+2,15,Mimosa acerba var. estrigosa,Fuzzy (phonetic),FALSE,Mimosa acerba var. strigosa,Synonym,1,
+3,18,Mimosa acerba var. striagosa,Fuzzy (phonetic),FALSE,Mimosa acerba var. strigosa,Synonym,1,
+4,20,Mimosa acerba var. acerba,Fuzzy (edit distance),FALSE,Hovenia acerba var. acerba,Accepted,0,Fuzzy match rejected
+5,23,Mimosa acerba var.strigosa,Fuzzy (phonetic),FALSE,Mimosa acerba var. strigosa,Synonym,1,
+6,26,Mimosa acuba,Fuzzy (edit distance),TRUE,Mimosa acerba,Synonym,1,
+7,26,Mimosa acuba,Fuzzy (edit distance),TRUE,Mimosa pacoba,Synonym,0,Fuzzy match rejected
+8,32,Mimosa acustipula,Fuzzy (edit distance),FALSE,Mimosa acutistipula,Accepted,1,
+9,33,Mimosa acustipula var. acutistipula,Fuzzy (edit distance),FALSE,Mimosa acutistipula var. acutistipula,Accepted,1,
+10,34,Mimosa acustistipula var. acustistipula,Fuzzy (edit distance),FALSE,Mimosa acutistipula var. acutistipula,Accepted,1,
+11,35,Mimosa acutistipula var. acustistipula,Fuzzy (edit distance),FALSE,Mimosa acutistipula var. acutistipula,Accepted,1,
+12,46,Mimosa adamantina var.adamantina,Fuzzy (phonetic),FALSE,Mimosa adamantina var. adamantina,Accepted,1,
+13,47,Mimosa adamantina var.hebecarpa,Fuzzy (phonetic),FALSE,Mimosa adamantina var. hebecarpa,Accepted,1,
+14,55,Mimosa adenphylla,Fuzzy (phonetic),TRUE,Mimosa adenophylla,Synonym,1,
+15,57,Mimosa adiantoides,Fuzzy (edit distance),TRUE,Mimosa deltoides,Unplaced,0,Fuzzy match rejected
+16,57,Mimosa adiantoides,Fuzzy (edit distance),TRUE,Mimosa daleoides,Accepted,1,
+17,57,Mimosa adiantoides,Fuzzy (edit distance),TRUE,Mimosa acacioides,Synonym,0,Fuzzy match rejected
+18,57,Mimosa adiantoides,Fuzzy (edit distance),TRUE,Mimosa sapindoides,Synonym,0,Fuzzy match rejected
+19,57,Mimosa adiantoides,Fuzzy (edit distance),TRUE,Mimosa ingoides,Synonym,0,Fuzzy match rejected
+20,58,Mimosa adprensa,Fuzzy (edit distance),FALSE,Mimosa adpressa,Accepted,1,
+21,81,Mimosa albolanata var.paucipinna,Fuzzy (phonetic),FALSE,Mimosa albolanata var. paucipinna,Accepted,1,
+22,83,Mimosa alegretensis,Fuzzy (edit distance),FALSE,Mimosa alegretense,Synonym,1,
+23,88,Mimosa amphigena var. amphigena,Fuzzy (edit distance),FALSE,Mimosa amphigena var. glabrescens,Synonym,1,
+24,97,Mimosa angustata,Fuzzy (edit distance),TRUE,Mimosa angulata,Unplaced,0,Fuzzy match rejected
+25,97,Mimosa angustata,Fuzzy (edit distance),TRUE,Mimosa angulata,Invalid,0,Fuzzy match rejected
+26,97,Mimosa angustata,Fuzzy (edit distance),TRUE,Mimosa angusta,Synonym,1,
+27,97,Mimosa angustata,Fuzzy (edit distance),TRUE,Mecosa angustata,Synonym,0,Fuzzy match rejected
+28,106,Mimosa antioquiensis,Fuzzy (phonetic),FALSE,Mimosa antioquensis,Accepted,1,
+29,110,Mimosa arachnoides,Fuzzy (edit distance),FALSE,Mimosa acacioides,Synonym,1,
+30,122,Mimosa arida,Fuzzy (edit distance),TRUE,Mimosa albida,Accepted,1,
+31,122,Mimosa arida,Fuzzy (edit distance),TRUE,Mimosa albida,Invalid,0,Fuzzy match rejected
+32,139,Mimosa aurivillus var. calothamnus,Fuzzy (phonetic),TRUE,Mimosa aurivillus var. calothamnos,Accepted,1,
+33,141,Mimosa aurivillus var. sardenscens,Fuzzy (edit distance),FALSE,Mimosa aurivillus var. sordescens,Accepted,1,
+34,146,Mimosa aurivillus var. calothamnus,Fuzzy (phonetic),TRUE,Mimosa aurivillus var. calothamnos,Accepted,1,
+35,148,Mimosa aurivillus var.calothamnos,Fuzzy (phonetic),FALSE,Mimosa aurivillus var. calothamnos,Accepted,1,
+36,155,Mimosa bahiensis,Fuzzy (edit distance),FALSE,Mimosa bahamensis,Accepted,1,
+37,169,Mimosa bathyndlrrhena,Fuzzy (edit distance),FALSE,Mimosa bathyrrhena,Accepted,1,
+38,171,Mimosa bauhiniaefolia,Fuzzy (phonetic),TRUE,Mimosa bauhiniifolia,Illegitimate,0,Fuzzy match rejected
+39,171,Mimosa bauhiniaefolia,Fuzzy (phonetic),TRUE,Mimosa bauhiniifolia,Synonym,1,
+40,173,Mimosa bem viflora,Fuzzy (edit distance),TRUE,Mimosa tenuiflora,Accepted,1,
+41,173,Mimosa bem viflora,Fuzzy (edit distance),TRUE,Mimosa tenuiflora,Illegitimate,0,Fuzzy match rejected
+42,173,Mimosa bem viflora,Fuzzy (edit distance),TRUE,Mimosa biflora,Invalid,0,Fuzzy match rejected
+43,179,Mimosa bicuspidata,Fuzzy (edit distance),TRUE,Marara bicuspidata,Synonym,0,Fuzzy match rejected
+44,179,Mimosa bicuspidata,Fuzzy (edit distance),TRUE,Memora cuspidata,Synonym,0,Fuzzy match rejected
+45,179,Mimosa bicuspidata,Fuzzy (edit distance),TRUE,Tilia bicuspidata,Synonym,0,Fuzzy match rejected
+46,179,Mimosa bicuspidata,Fuzzy (edit distance),TRUE,Sida bicuspidata,Synonym,0,Fuzzy match rejected
+47,184,Mimosa bifurca var. radula,Fuzzy (edit distance),FALSE,Mimosa bifurca var. reducta,Accepted,1,Fuzzy match rejected
+48,188,Mimosa bifurca var. radula,Fuzzy (edit distance),FALSE,Mimosa bifurca var. reducta,Accepted,1,
+49,191,Mimosa bimucronata var. bimucronata,Fuzzy (edit distance),TRUE,Mimosa bimucronata var. genuina,Invalid,0,Fuzzy match rejected
+50,191,Mimosa bimucronata var. bimucronata,Fuzzy (edit distance),TRUE,Mimosa bimucronata,Accepted,1,
+51,191,Mimosa bimucronata var. bimucronata,Fuzzy (edit distance),TRUE,Mimosa bimucronata var. trichocarpa,Synonym,0,Fuzzy match rejected
+52,191,Mimosa bimucronata var. bimucronata,Fuzzy (edit distance),TRUE,Mimosa bimucronata var. intermedia,Synonym,0,Fuzzy match rejected
+53,192,Mimosa bimucronata var. micheliana,Fuzzy (edit distance),FALSE,Mimosa bimucronata f. micheliana,Synonym,1,
+54,194,Mimosa bimucronata var. bimucronata,Fuzzy (edit distance),TRUE,Mimosa bimucronata var. genuina,Invalid,0,Fuzzy match rejected
+55,194,Mimosa bimucronata var. bimucronata,Fuzzy (edit distance),TRUE,Mimosa bimucronata,Accepted,1,
+56,194,Mimosa bimucronata var. bimucronata,Fuzzy (edit distance),TRUE,Mimosa bimucronata var. trichocarpa,Synonym,0,Fuzzy match rejected
+57,194,Mimosa bimucronata var. bimucronata,Fuzzy (edit distance),TRUE,Mimosa bimucronata var. intermedia,Synonym,0,Fuzzy match rejected
+58,195,Mimosa bimucrunata,Fuzzy (phonetic),FALSE,Mimosa bimucronata,Accepted,1,
+59,196,Mimosa bimurcronata,Fuzzy (edit distance),FALSE,Mimosa bimucronata,Accepted,1,
+60,198,Mimosa bipinnatula,Fuzzy (phonetic),FALSE,Mimosa bipennatula,Accepted,1,
+61,204,Mimosa blanchetti,Fuzzy (phonetic),FALSE,Mimosa blanchetii,Accepted,1,
+62,205,Mimosa blanchettii,Fuzzy (phonetic),FALSE,Mimosa blanchetii,Accepted,1,
+63,217,Mimosa bracaatinga var. paucijuga,Fuzzy (edit distance),FALSE,Mimosa bracaatinga f. paucijuga,Synonym,1,
+64,220,Mimosa brachycaulis,Fuzzy (edit distance),FALSE,Mimosa brachycarpa,Accepted,1,
+65,243,Mimosa caesalpinaefolia,Fuzzy (phonetic),FALSE,Mimosa caesalpiniifolia,Accepted,1,
+66,244,Mimosa caesalpiniaefolia,Fuzzy (phonetic),FALSE,Mimosa caesalpiniifolia,Accepted,1,
+67,245,Mimosa caesalpinifolia,Fuzzy (phonetic),FALSE,Mimosa caesalpiniifolia,Accepted,1,
+68,247,Mimosa caesapiniifolia,Fuzzy (edit distance),FALSE,Mimosa caesalpiniifolia,Accepted,1,
+69,265,Mimosa calothamnos var. calothamnoides,Fuzzy (edit distance),FALSE,Mimosa aurivillus var. calothamnoides,Accepted,1,
+70,270,Mimosa calothamnus,Fuzzy (phonetic),FALSE,Mimosa calothamnos,Synonym,1,
+71,272,Mimosa campicola var. barneby,Fuzzy (edit distance),FALSE,Mimosa campicola var. planipes,Accepted,1,
+72,282,Mimosa candolei,Fuzzy (phonetic),FALSE,Mimosa candollei,Accepted,1,
+73,285,Mimosa capillipes var. brevifolia benth.,Fuzzy (edit distance),FALSE,Mimosa capillipes var. brevifolia,Synonym,1,
+74,286,Mimosa capillipes var. capillipes,Fuzzy (edit distance),FALSE,Mimosa gracilis var. capillipes,Synonym,1,
+75,289,Mimosa capillipes var.brevifolia,Fuzzy (phonetic),FALSE,Mimosa capillipes var. brevifolia,Synonym,1,
+76,292,Mimosa caracenii,Fuzzy (edit distance),TRUE,Mimosa claussenii,Accepted,1,
+77,292,Mimosa caracenii,Fuzzy (edit distance),TRUE,Mimosa caripensis,Synonym,0,Fuzzy match rejected
+78,294,Mimosa carthostegia var. subsericea,Fuzzy (edit distance),FALSE,Mimosa xanthocentra var. subsericea,Accepted,1,
+79,296,Mimosa carvalloi,Fuzzy (edit distance),FALSE,Mimosa carvalhoi,Accepted,1,
+80,301,Mimosa cavalcantina,Fuzzy (edit distance),FALSE,Mimosa adamantina,Accepted,0,Fuzzy match rejected
+81,306,Mimosa ceratonia var. pseudo,Fuzzy (edit distance),FALSE,Mimosa ceratonia var. interior,Accepted,1,
+82,307,Mimosa ceratonia var. pseudo-clavata,Fuzzy (edit distance),FALSE,Mimosa ceratonia var. pseudo-obovata,Accepted,1,
+83,309,Mimosa ceratonia var. pseudo-ovata,Fuzzy (edit distance),FALSE,Mimosa ceratonia var. pseudo-obovata,Accepted,1,
+84,312,Mimosa ceratonia var.pseudo-obovata,Fuzzy (phonetic),FALSE,Mimosa ceratonia var. pseudo-obovata,Accepted,1,
+85,317,Mimosa chaetosphera,Fuzzy (phonetic),FALSE,Mimosa chaetosphaera,Accepted,1,
+86,318,Mimosa chapalensis,Fuzzy (edit distance),FALSE,Mimosa xochipalensis,Accepted,0,Fuzzy match rejected
+87,319,Mimosa chapmanii,Fuzzy (edit distance),FALSE,Meibomia chapmanii,Synonym,0,Fuzzy match rejected
+88,326,Mimosa chiliomosa,Fuzzy (edit distance),FALSE,Mimosa chiliomera,Accepted,1,
+89,331,Mimosa chrysantra,Fuzzy (edit distance),TRUE,Mimosa chrysantha,Unplaced,0,Fuzzy match rejected
+90,331,Mimosa chrysantra,Fuzzy (edit distance),TRUE,Mimosa chrysastra,Accepted,1,
+91,338,Mimosa clausseni,Fuzzy (phonetic),TRUE,Mimosa claussenii,Accepted,1,
+92,347,Mimosa claussenii var. prosiseta,Fuzzy (edit distance),FALSE,Mimosa claussenii var. prorsiseta,Accepted,1,
+93,349,Mimosa claussenii var. soderstromi,Fuzzy (phonetic),FALSE,Mimosa claussenii var. soderstromii,Accepted,1,
+94,351,Mimosa claussenii var. soderstronii,Fuzzy (edit distance),FALSE,Mimosa claussenii var. soderstromii,Accepted,1,
+95,361,Mimosa claussenii var.corneiseta,Fuzzy (phonetic),FALSE,Mimosa claussenii var. corneiseta,Accepted,1,
+96,362,Mimosa claussenii var.prorsiseta,Fuzzy (phonetic),FALSE,Mimosa claussenii var. prorsiseta,Accepted,1,
+97,369,Mimosa conferta var. brevipila,Fuzzy (edit distance),FALSE,Mimosa conferta f. brevipila,Synonym,1,
+98,370,Mimosa conferta var. genuina,Fuzzy (edit distance),FALSE,Mimosa conferta f. genuina,Invalid,1,
+99,372,Mimosa conferta var. longepedunculata,Fuzzy (edit distance),FALSE,Mimosa conferta f. longepedunculata,Synonym,1,
+100,374,Mimosa conferta var. parvifolia,Fuzzy (edit distance),FALSE,Mimosa conferta f. parvifolia,Synonym,1,
+101,375,Mimosa confusa,Fuzzy (edit distance),TRUE,Jambosa confusa,Synonym,0,Fuzzy match rejected
+102,375,Mimosa confusa,Fuzzy (edit distance),TRUE,Mimosa conferta,Synonym,0,Fuzzy match rejected
+103,375,Mimosa confusa,Fuzzy (edit distance),TRUE,Miconia confusa,Synonym,0,Fuzzy match rejected
+104,389,Mimosa crassifolia,Fuzzy (edit distance),FALSE,Memora crassifolia,Unplaced,0,Fuzzy match rejected
+105,392,Mimosa cruenta var. cruenta,Fuzzy (edit distance),FALSE,Mimosa cruenta var. glabra,Synonym,1,
+106,398,Mimosa cryptotamos,Fuzzy (edit distance),FALSE,Mimosa cryptothamnos,Accepted,1,
+107,409,Mimosa daleiodes,Fuzzy (phonetic),FALSE,Mimosa daleoides,Accepted,1,
+108,412,Mimosa daleoides var. psammophila,Fuzzy (edit distance),FALSE,Mimosa daleoides f. psammophila,Synonym,1,
+109,414,Mimosa dammeriana,Fuzzy (edit distance),FALSE,Mimosa roemeriana,Synonym,1,
+110,420,Mimosa debilis var. amnis-martium,Fuzzy (phonetic),FALSE,Mimosa debilis var. amnis-mortium,Accepted,1,
+111,423,Mimosa debilis var. barbata,Fuzzy (edit distance),TRUE,Mimosa debilis,Accepted,1,
+112,423,Mimosa debilis var. barbata,Fuzzy (edit distance),TRUE,Mimosa debilis var. vestita,Accepted,0,Fuzzy match rejected
+113,432,Mimosa debilis var.amnis-mortium,Fuzzy (phonetic),FALSE,Mimosa debilis var. amnis-mortium,Accepted,1,
+114,433,Mimosa debilis var.debilis,Fuzzy (phonetic),FALSE,Mimosa debilis var. debilis,Accepted,1,
+115,434,Mimosa debilis var.vestita,Fuzzy (phonetic),FALSE,Mimosa debilis var. vestita,Accepted,1,
+116,447,Mimosa densa var.alligantina,Fuzzy (phonetic),FALSE,Mimosa densa var. alligantina,Accepted,1,
+117,450,Mimosa desmodiodes,Fuzzy (phonetic),FALSE,Mimosa desmodioides,Synonym,1,
+118,457,Mimosa dichroma,Fuzzy (edit distance),FALSE,Mimosa dichroa,Accepted,1,
+119,468,Mimosa diplotricha var.diplotricha,Fuzzy (phonetic),FALSE,Mimosa diplotricha var. diplotricha,Accepted,1,
+120,471,Mimosa discoloba,Fuzzy (edit distance),TRUE,Mimosa discolor,Illegitimate,0,Fuzzy match rejected
+121,471,Mimosa discoloba,Fuzzy (edit distance),TRUE,Mimosa discolor,Illegitimate,0,Fuzzy match rejected
+122,471,Mimosa discoloba,Fuzzy (edit distance),TRUE,Mimosa discobola,Accepted,1,
+123,471,Mimosa discoloba,Fuzzy (edit distance),TRUE,Mimosa discolor,Synonym,0,Fuzzy match rejected
+124,479,Mimosa distans var. distans,Fuzzy (edit distance),FALSE,Mimosa distans subsp. distans,Accepted,1,
+125,487,Mimosa distans var. distans,Fuzzy (edit distance),FALSE,Mimosa distans subsp. distans,Accepted,1,
+126,492,Mimosa distans var.distans,Fuzzy (edit distance),FALSE,Mimosa distans subsp. distans,Accepted,1,
+127,499,Mimosa dolens var. callosa,Fuzzy (edit distance),FALSE,Mimosa dolens var. foliolosa,Accepted,1,
+128,501,Mimosa dolens var. dolens,Fuzzy (edit distance),FALSE,Mimosa dolens subsp. dolens,Accepted,1,
+129,502,Mimosa dolens var. eriophylla,Fuzzy (edit distance),FALSE,Mimosa dolens subsp. eriophylla,Accepted,1,
+130,504,Mimosa dolens var. foliosa,Fuzzy (edit distance),FALSE,Mimosa dolens var. foliolosa,Accepted,1,
+131,505,Mimosa dolens var. glabrecens,Fuzzy (edit distance),FALSE,Mimosa dolens var. pubescens,Accepted,1,
+132,513,Mimosa dolens var. rigiscens,Fuzzy (phonetic),FALSE,Mimosa dolens var. rigescens,Accepted,1,
+133,517,Mimosa dolens var. coerulea,Fuzzy (edit distance),FALSE,Mimosa dolens var. acerba,Synonym,0,Fuzzy match rejected
+134,518,Mimosa dolens var. dolens,Fuzzy (edit distance),FALSE,Mimosa dolens subsp. dolens,Accepted,1,
+135,523,Mimosa dolens var.acerba,Fuzzy (phonetic),FALSE,Mimosa dolens var. acerba,Synonym,1,
+136,524,Mimosa dolens var.: acerba,Fuzzy (phonetic),FALSE,Mimosa dolens var. acerba,Synonym,1,
+137,525,Mimosa dolichopoda,Fuzzy (edit distance),FALSE,Miconia dolichopoda,Accepted,0,Fuzzy match rejected
+138,526,Mimosa dollens var. acerba,Fuzzy (phonetic),FALSE,Mimosa dolens var. acerba,Synonym,1,
+139,527,Mimosa dollens,Fuzzy (phonetic),FALSE,Mimosa dolens,Accepted,1,
+140,528,Mimosa dolleus var. rigida,Fuzzy (edit distance),FALSE,Mimosa dolens var. rigida,Synonym,1,
+141,539,Mimosa dryaucleides,Fuzzy (edit distance),FALSE,Mimosa dryandroides,Accepted,1,
+142,571,Mimosa eriorhachis,Fuzzy (phonetic),FALSE,Mimosa eriorrhachis,Accepted,1,
+143,573,Mimosa eriostachys,Fuzzy (edit distance),FALSE,Mimosa chrysostachys,Invalid,0,Fuzzy match rejected
+144,574,Mimosa ernesti,Fuzzy (phonetic),FALSE,Mimosa ernestii,Accepted,1,
+145,577,Mimosa escabiella,Fuzzy (edit distance),FALSE,Mimosa scabrella,Accepted,1,
+146,578,Mimosa escabrella,Fuzzy (phonetic),FALSE,Mimosa scabrella,Accepted,1,
+147,589,Mimosa falcipina,Fuzzy (phonetic),FALSE,Mimosa falcipinna,Accepted,1,
+148,596,Mimosa fernandezcasasii,Fuzzy (phonetic),FALSE,Mimosa fernandez-casasii,Accepted,1,
+149,605,Mimosa filipetiolata,Fuzzy (edit distance),FALSE,Mimosa filipetiola,Accepted,1,
+150,606,Mimosa fioliolosa var.multipinna,Fuzzy (phonetic),FALSE,Mimosa foliolosa var. multipinna,Accepted,1,
+151,614,Mimosa floccusa,Fuzzy (edit distance),FALSE,Mimosa flocculosa,Accepted,1,
+152,619,Mimosa foliolosa var. brevibracteata,Fuzzy (edit distance),FALSE,Mimosa foliolosa var. brevibractea,Synonym,1,
+153,624,Mimosa foliolosa var. foliolosa,Fuzzy (edit distance),FALSE,Mimosa foliolosa subsp. foliolosa,Accepted,1,
+154,640,Mimosa foliolosa var. foliolosa,Fuzzy (edit distance),FALSE,Mimosa foliolosa subsp. foliolosa,Accepted,1,
+155,651,Mimosa foliolosa var.brevibractea,Fuzzy (phonetic),FALSE,Mimosa foliolosa var. brevibractea,Synonym,1,
+156,652,Mimosa foliolosa var.foederalis,Fuzzy (phonetic),FALSE,Mimosa foliolosa var. foederalis,Accepted,1,
+157,653,Mimosa foliolosa var.pachycarpa,Fuzzy (phonetic),FALSE,Mimosa foliolosa var. pachycarpa,Accepted,1,
+158,654,Mimosa foliolosa var.pubescens,Fuzzy (phonetic),FALSE,Mimosa foliolosa var. pubescens,Accepted,1,
+159,657,Mimosa foliosa,Fuzzy (phonetic),TRUE,Mimosa foliolosa,Synonym,0,Fuzzy match rejected
+160,658,Mimosa foliosa var. pachycarpa,Fuzzy (edit distance),FALSE,Mimosa foliolosa var. pachycarpa,Accepted,1,
+161,659,Mimosa foliosa var. peregrina,Fuzzy (edit distance),FALSE,Mimosa foliolosa var. peregrina,Accepted,1,
+162,660,Mimosa formidabilis,Fuzzy (edit distance),TRUE,Mimosa irritabilis,Synonym,0,Fuzzy match rejected
+163,660,Mimosa formidabilis,Fuzzy (edit distance),TRUE,Mimosa irritabilis,Synonym,0,Fuzzy match rejected
+164,668,Mimosa furfuraceae,Fuzzy (phonetic),FALSE,Mimosa furfuracea,Accepted,1,
+165,674,Mimosa gemmulata var. cristalina,Fuzzy (phonetic),FALSE,Mimosa gemmulata var. cristallina,Synonym,1,
+166,676,Mimosa gemmulata var. crystallina,Fuzzy (phonetic),FALSE,Mimosa gemmulata var. cristallina,Synonym,1,
+167,686,Mimosa gemmulata var.adamantina,Fuzzy (phonetic),FALSE,Mimosa gemmulata var. adamantina,Synonym,1,
+168,687,Mimosa geniculata var. adamantinus,Fuzzy (edit distance),FALSE,Mimosa gemmulata var. adamantina,Synonym,1,
+169,693,Mimosa glazioui,Fuzzy (edit distance),FALSE,Mimosa glaziovii,Accepted,1,
+170,696,Mimosa glycyrrhioides,Fuzzy (edit distance),FALSE,Mimosa glycyrrhizoides,Accepted,1,
+171,706,Mimosa gracilis var. gracilis,Fuzzy (edit distance),TRUE,Mimosa gracilis subsp. gracilis,Accepted,1,
+172,706,Mimosa gracilis var. gracilis,Fuzzy (edit distance),TRUE,Hemiboea gracilis var. gracilis,Accepted,0,Fuzzy match rejected
+173,716,Mimosa gracilis var. gracilis,Fuzzy (edit distance),TRUE,Mimosa gracilis subsp. gracilis,Accepted,1,
+174,716,Mimosa gracilis var. gracilis,Fuzzy (edit distance),TRUE,Hemiboea gracilis var. gracilis,Accepted,0,
+175,722,Mimosa gracilis var.brevissima,Fuzzy (phonetic),FALSE,Mimosa gracilis var. brevissima,Accepted,1,
+176,723,Mimosa gracilis var.capillipes,Fuzzy (phonetic),FALSE,Mimosa gracilis var. capillipes,Synonym,1,
+177,724,Mimosa gracilis var.gracilis,Fuzzy (edit distance),TRUE,Mimosa gracilis var. capillipes,Synonym,0,Fuzzy match rejected
+178,724,Mimosa gracilis var.gracilis,Fuzzy (edit distance),TRUE,Mimosa gracilis subsp. gracilis,Accepted,1,
+179,724,Mimosa gracilis var.gracilis,Fuzzy (edit distance),TRUE,Hemiboea gracilis var. gracilis,Accepted,0,Fuzzy match rejected
+180,735,Mimosa guaratinica,Fuzzy (edit distance),FALSE,Mimosa guaranitica,Accepted,1,
+181,743,Mimosa guilandinae var. micrantha,Fuzzy (edit distance),FALSE,Mimosa guilandinae var. paterata,Accepted,1,
+182,757,Mimosa habecarpa,Fuzzy (phonetic),FALSE,Mimosa hebecarpa,Accepted,1,
+183,760,Mimosa halliana,Fuzzy (edit distance),TRUE,Mimosa alleniana,Accepted,1,
+184,760,Mimosa halliana,Fuzzy (edit distance),TRUE,Mimosa hilariana,Accepted,0,Fuzzy match rejected
+185,763,Mimosa harmsiana,Fuzzy (edit distance),FALSE,Mimosa farnesiana,Synonym,0,Fuzzy match rejected
+186,764,Mimosa hassleriana var. aculeata,Fuzzy (edit distance),FALSE,Mimosa hassleriana var. virgata,Synonym,1,
+187,767,Mimosa hassteniana,Fuzzy (phonetic),FALSE,Mimosa houstoniana,Synonym,1,
+188,768,Mimosa hastilis,Fuzzy (phonetic),FALSE,Mimosa hostilis,Synonym,1,
+189,780,Mimosa hilaroana,Fuzzy (phonetic),FALSE,Mimosa hilariana,Accepted,1,
+190,786,Mimosa hirsutissima var. decumbens,Fuzzy (edit distance),FALSE,Mimosa hirsutissima f. decumbens,Synonym,1,
+191,787,Mimosa hirsutissima var. erecta,Fuzzy (edit distance),FALSE,Mimosa hirsutissima f. erecta,Synonym,1,
+192,794,Mimosa hirsutissima var.barbigera,Fuzzy (phonetic),FALSE,Mimosa hirsutissima var. barbigera,Accepted,1,
+193,795,Mimosa hirsutula,Fuzzy (edit distance),TRUE,Mimosa hirsuta,Synonym,1,
+194,795,Mimosa hirsutula,Fuzzy (edit distance),TRUE,Mimosa hirsuta,Illegitimate,0,Fuzzy match rejected
+195,797,Mimosa hirtusula,Fuzzy (edit distance),TRUE,Mimosa hirsuta,Synonym,1,
+196,797,Mimosa hirtusula,Fuzzy (edit distance),TRUE,Mimosa hirsuta,Illegitimate,0,Fuzzy match rejected
+197,809,Mimosa hycteridis,Fuzzy (edit distance),FALSE,Mimosa nycteridis,Accepted,1,
+198,820,Mimosa hypoleuca var. hypoleuca,Fuzzy (edit distance),FALSE,Mimosa hypoglauca var. hypoglauca,Accepted,1,
+199,821,Mimosa hypoleuca var. syncollandra,Fuzzy (edit distance),FALSE,Mimosa hypoglauca var. syncollandra,Accepted,1,
+200,828,Mimosa incana var. incana,Fuzzy (edit distance),FALSE,Banksia incana var. incana,Accepted,0,Fuzzy match rejected
+201,830,Mimosa incana var. incana,Fuzzy (edit distance),FALSE,Banksia incana var. incana,Accepted,0,Fuzzy match rejected
+202,831,Mimosa incana var.incana,Fuzzy (edit distance),FALSE,Banksia incana var. incana,Accepted,0,Fuzzy match rejected
+203,834,Mimosa insidiosa var. indidiosa,Fuzzy (edit distance),FALSE,Mimosa insidiosa var. insidiosa,Accepted,1,
+204,839,Mimosa insidiosa var.major,Fuzzy (phonetic),FALSE,Mimosa insidiosa var. major,Accepted,1,
+205,841,Mimosa insigne,Fuzzy (edit distance),FALSE,Mimosa insignis,Accepted,1,
+206,846,Mimosa invisa var. invisa,Fuzzy (edit distance),TRUE,Mimosa invisa var. inermis,Synonym,1,
+207,846,Mimosa invisa var. invisa,Fuzzy (edit distance),TRUE,Mimosa invisa var. inermis,Illegitimate,0,Fuzzy match rejected
+208,851,Mimosa invisa var. invisa,Fuzzy (edit distance),TRUE,Mimosa invisa var. inermis,Synonym,1,
+209,851,Mimosa invisa var. invisa,Fuzzy (edit distance),TRUE,Mimosa invisa var. inermis,Illegitimate,0,Fuzzy match rejected
+210,853,Mimosa invisa var.macrostachya,Fuzzy (phonetic),FALSE,Mimosa invisa var. macrostachya,Accepted,1,
+211,854,Mimosa invisa var.spiciflora,Fuzzy (phonetic),FALSE,Mimosa invisa var. spiciflora,Synonym,1,
+212,863,Mimosa itambeana,Fuzzy (edit distance),FALSE,Mimosa inamoena,Accepted,0,Fuzzy match rejected
+213,868,Mimosa jaliscensis,Fuzzy (edit distance),FALSE,Mimosa velascoensis,Synonym,0,Fuzzy match rejected
+214,873,Mimosa kulnisteroides,Fuzzy (edit distance),FALSE,Mimosa kuhnisteroides,Accepted,1,
+215,875,Mimosa lactecifera,Fuzzy (edit distance),FALSE,Mimosa laticifera,Accepted,1,
+216,876,Mimosa lactescens,Fuzzy (edit distance),TRUE,Mimosa glaucescens,Illegitimate,0,Fuzzy match rejected
+217,876,Mimosa lactescens,Fuzzy (edit distance),TRUE,Mimosa glaucescens,Illegitimate,0,Fuzzy match rejected
+218,877,Mimosa lacticifera,Fuzzy (edit distance),FALSE,Mimosa laticifera,Accepted,1,
+219,878,Mimosa lactifera,Fuzzy (edit distance),FALSE,Mimosa laticifera,Accepted,1,
+220,881,Mimosa lamina,Fuzzy (phonetic),TRUE,Mimosa limana,Synonym,1,
+221,891,Mimosa lasiocarpa var. glabriflora,Fuzzy (edit distance),FALSE,Mimosa lasiocarpa f. glabriflora,Synonym,1,
+222,900,Mimosa lehmannii,Fuzzy (phonetic),TRUE,Mimosa lemmonii,Synonym,1,
+223,918,Mimosa leptoclada,Fuzzy (edit distance),TRUE,Mimosa oedoclada,Accepted,0,Fuzzy match rejected
+224,918,Mimosa leptoclada,Fuzzy (edit distance),TRUE,Mimosa leptocarpa,Accepted,1,
+225,918,Mimosa leptoclada,Fuzzy (edit distance),TRUE,Vicoa leptoclada,Synonym,0,Fuzzy match rejected
+226,919,Mimosa leptorhachia,Fuzzy (edit distance),FALSE,Mimosa leptorhachis,Accepted,1,
+227,923,Mimosa leucophylla,Fuzzy (phonetic),TRUE,Mimosa oligophylla,Accepted,0,Fuzzy match rejected
+228,923,Mimosa leucophylla,Fuzzy (phonetic),TRUE,Mimosa leucophloea,Synonym,1,
+229,932,Mimosa loeseneriana,Fuzzy (edit distance),FALSE,Mimosa roemeriana,Synonym,0,Fuzzy match rejected
+230,933,Mimosa loesneriana,Fuzzy (edit distance),FALSE,Mimosa roemeriana,Synonym,0,Fuzzy match rejected
+231,945,Mimosa lupinoides var. glabrescens,Fuzzy (edit distance),FALSE,Mimosa lupinoides f. glabrescens,Synonym,1,
+232,972,Mimosa maracayensis,Fuzzy (phonetic),FALSE,Mimosa maracayuensis,Accepted,1,
+233,974,Mimosa maracayuenis,Fuzzy (edit distance),FALSE,Mimosa maracayuensis,Accepted,1,
+234,976,Mimosa maracayüensis,Fuzzy (phonetic),FALSE,Mimosa maracayuensis,Accepted,1,
+235,977,Mimosa maracuyensis,Fuzzy (phonetic),FALSE,Mimosa maracayuensis,Accepted,1,
+236,980,Mimosa marthae,Fuzzy (edit distance),FALSE,Mimosa parae,Synonym,1,
+237,985,Mimosa megapotamica,Fuzzy (edit distance),TRUE,Ipomoea megapotamica,Accepted,0,Fuzzy match rejected
+238,985,Mimosa megapotamica,Fuzzy (edit distance),TRUE,Ditassa megapotamica,Synonym,0,Fuzzy match rejected
+239,988,Mimosa melonocarpa,Fuzzy (phonetic),FALSE,Mimosa melanocarpa,Accepted,1,
+240,993,Mimosa meticulosa var. hirsuta,Fuzzy (edit distance),FALSE,Mimosa meticulosa f. hirsuta,Synonym,1,
+241,994,Mimosa meticulosa var. macrophylla,Fuzzy (phonetic),FALSE,Mimosa meticulosa var. microphylla,Synonym,1,
+242,997,Mimosa meticulosa var. oblongifolia,Fuzzy (edit distance),FALSE,Mimosa meticulosa f. oblongifolia,Synonym,1,
+243,998,Mimosa meticulosa var. ovalifolia,Fuzzy (edit distance),FALSE,Mimosa meticulosa f. ovalifolia,Synonym,1,
+244,999,Mimosa meticulosos,Fuzzy (edit distance),FALSE,Mimosa meticulosa,Synonym,1,
+245,1008,Mimosa microcephala var. microcephala,Fuzzy (edit distance),FALSE,Mimosa microcephala subsp. microcephala,Accepted,1,
+246,1011,Mimosa micropheris,Fuzzy (edit distance),FALSE,Mimosa micropteris,Accepted,1,
+247,1017,Mimosa micropteris var.micropteris,Fuzzy (phonetic),FALSE,Mimosa micropteris var. micropteris,Accepted,1,
+248,1020,Mimosa mimosoides,Fuzzy (edit distance),FALSE,Mimosa ingoides,Synonym,0,Fuzzy match rejected
+249,1022,Mimosa minorum,Fuzzy (phonetic),FALSE,Mimosa minarum,Accepted,1,
+250,1039,Mimosa moicropteris var. pungens,Fuzzy (phonetic),FALSE,Mimosa micropteris var. pungens,Accepted,1,
+251,1043,Mimosa monadelpha var. hirsuto-puberula,Fuzzy (phonetic),FALSE,Mimosa monadelpha var. hirsutopuberula,Synonym,1,
+252,1045,Mimosa monadelpha var. monadelpha,Fuzzy (edit distance),FALSE,Verticordia monadelpha var. monadelpha,Accepted,0,Fuzzy match rejected
+253,1057,Mimosa monticola var. monticula,Fuzzy (phonetic),FALSE,Mimosa monticola var. monticola,Accepted,1,
+254,1059,Mimosa monticola var.monticola,Fuzzy (phonetic),FALSE,Mimosa monticola var. monticola,Accepted,1,
+255,1067,Mimosa multijuca,Fuzzy (edit distance),FALSE,Mimosa multipinna,Synonym,0,Fuzzy match rejected
+256,1070,Mimosa multipinnoides,Fuzzy (edit distance),TRUE,Mimosa multipinna,Synonym,0,Fuzzy match rejected
+257,1070,Mimosa multipinnoides,Fuzzy (edit distance),TRUE,Mimosa lupinoides,Accepted,1,
+258,1072,Mimosa multispinoides,Fuzzy (edit distance),TRUE,Mimosa lupinoides,Accepted,1,
+259,1072,Mimosa multispinoides,Fuzzy (edit distance),TRUE,Mimosa ursinoides,Synonym,0,Fuzzy match rejected
+260,1075,Mimosa myriadena,Fuzzy (phonetic),FALSE,Mimosa myriadenia,Accepted,1,
+261,1087,Mimosa nederleinii,Fuzzy (phonetic),FALSE,Mimosa niederleinii,Accepted,1,
+262,1090,Mimosa neptuniodes,Fuzzy (phonetic),FALSE,Mimosa neptunioides,Accepted,1,
+263,1092,Mimosa nervosa var. hirsuta,Fuzzy (edit distance),FALSE,Mimosa nervosa f. hirsuta,Synonym,1,
+264,1097,Mimosa niederleinii var. iograndensis,Fuzzy (phonetic),FALSE,Mimosa niederleinii var. riograndensis,Synonym,1,
+265,1099,Mimosa niederleinii var. niederleinii,Fuzzy (edit distance),FALSE,Agarista niederleinii var. niederleinii,Accepted,0,Fuzzy match rejected
+266,1102,Mimosa niederleinii var. niederleinii,Fuzzy (edit distance),FALSE,Agarista niederleinii var. niederleinii,Accepted,0,Fuzzy match rejected
+267,1105,Mimosa niederleinii var.riograndensis,Fuzzy (phonetic),FALSE,Mimosa niederleinii var. riograndensis,Synonym,1,
+268,1121,Mimosa nuda var. nuda,Fuzzy (edit distance),FALSE,Mimosa nuda var. angusta,Synonym,1,
+269,1125,Mimosa nuda var. nuda,Fuzzy (edit distance),FALSE,Mimosa nuda var. angusta,Synonym,1,
+270,1144,Mimosa ophtalmocentra,Fuzzy (edit distance),FALSE,Mimosa ophthalmocentra,Accepted,1,
+271,1145,Mimosa ophthaklmocentra,Fuzzy (edit distance),FALSE,Mimosa ophthalmocentra,Accepted,1,
+272,1150,Mimosa orizabensis,Fuzzy (edit distance),TRUE,Mimosa onilahensis,Accepted,0,Fuzzy match rejected
+273,1150,Mimosa orizabensis,Fuzzy (edit distance),TRUE,Mimosa cuiabensis,Accepted,0,Fuzzy match rejected
+274,1152,Mimosa orthocantha,Fuzzy (phonetic),FALSE,Mimosa orthacantha,Accepted,1,
+275,1157,Mimosa ourobrancoënsis,Fuzzy (phonetic),FALSE,Mimosa ourobrancoensis,Accepted,1,
+276,1164,Mimosa paludosa var. metadenotricha,Fuzzy (edit distance),FALSE,Mimosa setosa var. metadenotricha,Accepted,1,
+277,1165,Mimosa paludosa var. paludosa,Fuzzy (edit distance),FALSE,Mimosa setosa var. paludosa,Synonym,1,
+278,1168,Mimosa paniculiflora,Fuzzy (edit distance),TRUE,Mimosa piliflora,Synonym,0,Fuzzy match rejected
+279,1168,Mimosa paniculiflora,Fuzzy (edit distance),TRUE,Mimosa acutiflora,Synonym,0,Fuzzy match rejected
+280,1168,Mimosa paniculiflora,Fuzzy (edit distance),TRUE,Mimosa cauliflora,Synonym,0,Fuzzy match rejected
+281,1176,Mimosa paraguariae var. chacoënsis,Fuzzy (phonetic),FALSE,Mimosa paraguariae var. chacoensis,Synonym,1,
+282,1181,Mimosa parahybana,Fuzzy (phonetic),FALSE,Mimosa paraibana,Accepted,1,
+283,1185,Mimosa parviflora,Fuzzy (edit distance),TRUE,Limonia parviflora,Synonym,0,Fuzzy match rejected
+284,1185,Mimosa parviflora,Fuzzy (edit distance),TRUE,Miconia parviflora,Synonym,0,Fuzzy match rejected
+285,1185,Mimosa parviflora,Fuzzy (edit distance),TRUE,Miconia parviflora,Synonym,0,Fuzzy match rejected
+286,1185,Mimosa parviflora,Fuzzy (edit distance),TRUE,Miconia parviflora,Synonym,0,Fuzzy match rejected
+287,1185,Mimosa parviflora,Fuzzy (edit distance),TRUE,Miliusa parviflora,Accepted,0,Fuzzy match rejected
+288,1198,Mimosa paupera var. longepedunculata,Fuzzy (phonetic),FALSE,Mimosa paupera var. longipedunculata,Synonym,1,
+289,1202,Mimosa paupera var.paupera,Fuzzy (phonetic),FALSE,Mimosa paupera var. paupera,Accepted,1,
+290,1203,Mimosa pauperavar.paupera,Fuzzy (phonetic),FALSE,Mimosa paupera var. paupera,Accepted,1,
+291,1207,Mimosa pedalis,Fuzzy (edit distance),FALSE,Mimosa edulis,Synonym,0,Fuzzy match rejected
+292,1214,Mimosa pellita var. pellita,Fuzzy (edit distance),FALSE,Mimosa pellita var. hispida,Synonym,1,
+293,1215,Mimosa pellita var. pellita,Fuzzy (edit distance),FALSE,Mimosa pellita var. hispida,Synonym,1,
+294,1216,Mimosa per-duseni,Fuzzy (phonetic),FALSE,Mimosa per-dusenii,Accepted,1,
+295,1219,Mimosa pereiba,Fuzzy (edit distance),TRUE,Mimosa peregrina,Synonym,1,
+296,1219,Mimosa pereiba,Fuzzy (edit distance),TRUE,Mimosa peregrina,Illegitimate,0,Fuzzy match rejected
+297,1227,Mimosa phyllodinea var. phyllorhoea,Fuzzy (phonetic),FALSE,Mimosa phyllodinea var. phyllorrhoea,Accepted,1,
+298,1229,Mimosa phylodinea var. phylodinea,Fuzzy (phonetic),FALSE,Mimosa phyllodinea var. phyllodinea,Accepted,1,
+299,1230,Mimosa phylodinea var. phylorrhoea,Fuzzy (phonetic),FALSE,Mimosa phyllodinea var. phyllorrhoea,Accepted,1,
+300,1238,Mimosa pigra var.dehiscens,Fuzzy (phonetic),FALSE,Mimosa pigra var. dehiscens,Accepted,1,
+301,1239,Mimosa pigra var.pigra,Fuzzy (phonetic),FALSE,Mimosa pigra var. pigra,Accepted,1,
+302,1240,Mimosa pilifera,Fuzzy (edit distance),FALSE,Mimosa pilulifera,Accepted,1,
+303,1241,Mimosa pilularis var. pseudincana,Fuzzy (edit distance),FALSE,Mimosa pilulifera var. pseudincana,Accepted,1,
+304,1242,Mimosa pilulifera benth. var. pseudincana,Fuzzy (edit distance),FALSE,Mimosa pilulifera var. pseudincana,Accepted,1,
+305,1244,Mimosa pilulifera var. discolor,Fuzzy (edit distance),FALSE,Euphorbia pilulifera var. discolor,Synonym,0,Fuzzy match rejected
+306,1249,Mimosa pilulifera var. pseudoincana,Fuzzy (phonetic),TRUE,Mimosa pilulifera var. pseudincana,Accepted,1,
+307,1251,Mimosa pilulifera var. psedincana,Fuzzy (phonetic),FALSE,Mimosa pilulifera var. pseudincana,Accepted,1,
+308,1253,Mimosa pilulifera var. pseudoincana,Fuzzy (phonetic),TRUE,Mimosa pilulifera var. pseudincana,Accepted,1,
+309,1255,Mimosa pingra,Fuzzy (edit distance),FALSE,Mimosa pigra,Accepted,1,
+310,1258,Mimosa piresii var. pseudincana,Fuzzy (edit distance),FALSE,Mimosa pilulifera var. pseudincana,Accepted,1,
+311,1260,Mimosa pistaciaefolia,Fuzzy (edit distance),FALSE,Mimosa pistaciifolia,Synonym,1,
+312,1261,Mimosa pithecellobioides,Fuzzy (edit distance),FALSE,Mimosa pithecolobioides,Accepted,1,
+313,1262,Mimosa pithecelobioides,Fuzzy (edit distance),FALSE,Mimosa pithecolobioides,Accepted,1,
+314,1264,Mimosa planaltoana,Fuzzy (edit distance),FALSE,Mimosa blancoana,Synonym,0,Fuzzy match rejected
+315,1272,Mimosa plumifolia,Fuzzy (phonetic),FALSE,Mimosa plumeifolia,Synonym,1,
+316,1273,Mimosa plumiifolia,Fuzzy (phonetic),FALSE,Mimosa plumeifolia,Synonym,1,
+317,1279,Mimosa polididyma,Fuzzy (phonetic),FALSE,Mimosa polydidyma,Accepted,1,
+318,1282,Mimosa polyandra,Fuzzy (edit distance),FALSE,Mimosa polyantha,Accepted,1,
+319,1289,Mimosa polycarpa var. spegazinii,Fuzzy (phonetic),FALSE,Mimosa polycarpa var. spegazzinii,Accepted,1,
+320,1290,Mimosa polycarpa var. spegazzini,Fuzzy (phonetic),FALSE,Mimosa polycarpa var. spegazzinii,Accepted,1,
+321,1292,Mimosa polycarpa var. spegazzinnii,Fuzzy (phonetic),FALSE,Mimosa polycarpa var. spegazzinii,Accepted,1,
+322,1293,Mimosa polycarpa var. spergazzini,Fuzzy (edit distance),FALSE,Mimosa polycarpa var. spegazzinii,Accepted,1,
+323,1295,Mimosa polycarpa var. speagazinii,Fuzzy (phonetic),FALSE,Mimosa polycarpa var. spegazzinii,Accepted,1,
+324,1297,Mimosa polycarpavar.spegazzinii,Fuzzy (phonetic),FALSE,Mimosa polycarpa var. spegazzinii,Accepted,1,
+325,1298,Mimosa polycephala var. latifolia,Fuzzy (edit distance),FALSE,Mimosa polycephala var. taxifolia,Accepted,1,
+326,1306,Mimosa polydema,Fuzzy (edit distance),FALSE,Mimosa polydidyma,Accepted,1,
+327,1314,Mimosa priga,Fuzzy (edit distance),FALSE,Mimosa pigra,Accepted,1,
+328,1326,Mimosa pseudo-radula,Fuzzy (phonetic),FALSE,Mimosa pseudoradula,Accepted,1,
+329,1328,Mimosa pseudocalosa,Fuzzy (phonetic),FALSE,Mimosa pseudocallosa,Accepted,1,
+330,1330,Mimosa pseudofoliosa,Fuzzy (edit distance),FALSE,Mimosa pseudofoliolosa,Accepted,1,
+331,1331,Mimosa pseudoincana var. discolor,Fuzzy (phonetic),TRUE,Mimosa pseudincana var. discolor,Synonym,1,
+332,1332,Mimosa pseudoincana,Fuzzy (phonetic),FALSE,Mimosa pseudincana,Synonym,1,
+333,1333,Mimosa pseudoincana var. discolor,Fuzzy (phonetic),TRUE,Mimosa pseudincana var. discolor,Synonym,1,
+334,1341,Mimosa pseudoradula var. pseudoradula,Fuzzy (edit distance),FALSE,Mimosa pseudoradula var. detonsa,Synonym,1,
+335,1344,Mimosa pseudoradula var. pseudoradula,Fuzzy (edit distance),FALSE,Mimosa pseudoradula var. detonsa,Synonym,1,
+336,1345,Mimosa pseudorepens,Fuzzy (edit distance),TRUE,Mimosa prorepens,Accepted,0,Fuzzy match rejected
+337,1345,Mimosa pseudorepens,Fuzzy (edit distance),TRUE,Mimosa lepidorepens,Accepted,1,
+338,1348,Mimosa pseudospinosa,Fuzzy (edit distance),FALSE,Mimosa pseudosetosa,Synonym,1,
+339,1358,Mimosa pudica var. hirsuta,Fuzzy (edit distance),FALSE,Mimosa pudica var. hispida,Accepted,1,
+340,1360,Mimosa pudica var. hispidior,Fuzzy (edit distance),FALSE,Mimosa pudica var. hispida,Accepted,1,
+341,1363,Mimosa pudica var. tetandra,Fuzzy (edit distance),FALSE,Mimosa pudica var. tetrandra,Accepted,1,
+342,1364,Mimosa pudica var. tetranda,Fuzzy (edit distance),FALSE,Mimosa pudica var. tetrandra,Accepted,1,
+343,1371,Mimosa pudica var.hispida,Fuzzy (phonetic),FALSE,Mimosa pudica var. hispida,Accepted,1,
+344,1372,Mimosa pudica var.tetranda,Fuzzy (edit distance),FALSE,Mimosa pudica var. tetrandra,Accepted,1,
+345,1373,Mimosa pudica var.tetrandra,Fuzzy (phonetic),FALSE,Mimosa pudica var. tetrandra,Accepted,1,
+346,1374,Mimosa pudica var.unijuga,Fuzzy (phonetic),FALSE,Mimosa pudica var. unijuga,Accepted,1,
+347,1379,Mimosa pungens var. pungens,Fuzzy (edit distance),FALSE,Armeria pungens var. pungens,Accepted,0,Fuzzy match rejected
+348,1382,Mimosa purpuracea,Fuzzy (edit distance),TRUE,Mimosa furfuracea,Accepted,0,Fuzzy match rejected
+349,1382,Mimosa purpuracea,Fuzzy (edit distance),TRUE,Mimosa purpurea,Synonym,1,
+350,1390,Mimosa quadrivalves,Fuzzy (phonetic),FALSE,Mimosa quadrivalvis,Accepted,1,
+351,1395,Mimosa quadrivalvis var. hamata,Fuzzy (edit distance),TRUE,Mimosa quadrivalvis,Accepted,1,
+352,1395,Mimosa quadrivalvis var. hamata,Fuzzy (edit distance),TRUE,Mimosa quadrivalvis var. urbaniana,Accepted,0,Fuzzy match rejected
+353,1397,Mimosa quadrivalvis var. jalicensis,Fuzzy (phonetic),FALSE,Mimosa quadrivalvis var. jaliscensis,Accepted,1,
+354,1400,Mimosa quadrivalvis var. leptcarpa,Fuzzy (phonetic),FALSE,Mimosa quadrivalvis var. leptocarpa,Synonym,1,
+355,1402,Mimosa quadrivalvis var. leptocarya,Fuzzy (edit distance),FALSE,Mimosa quadrivalvis var. leptocarpa,Synonym,1,
+356,1413,Mimosa quilandinae,Fuzzy (phonetic),FALSE,Mimosa guilandinae,Accepted,1,
+357,1428,Mimosa ramosissima var. ramosissima,Fuzzy (edit distance),FALSE,Symplocos ramosissima var. ramosissima,Accepted,0,Fuzzy match rejected
+358,1434,Mimosa reflexa,Fuzzy (edit distance),FALSE,Miconia reflexa,Accepted,0,Fuzzy match rejected
+359,1437,Mimosa regnelli var. exuta,Fuzzy (phonetic),FALSE,Mimosa regnellii var. exuta,Accepted,1,
+360,1438,Mimosa regnelli,Fuzzy (phonetic),FALSE,Mimosa regnellii,Accepted,1,
+361,1439,Mimosa regnelli var. supersetosa,Fuzzy (phonetic),FALSE,Mimosa regnellii var. supersetosa,Accepted,1,
+362,1441,Mimosa regnellii var. enxuta,Fuzzy (edit distance),FALSE,Mimosa regnellii var. exuta,Accepted,1,
+363,1442,Mimosa regnellii var. enxuta,Fuzzy (edit distance),FALSE,Mimosa regnellii var. exuta,Accepted,1,
+364,1443,Mimosa regnellii var. exsuta,Fuzzy (edit distance),FALSE,Mimosa regnellii var. exuta,Accepted,1,
+365,1453,Mimosa regnellii var.grossiseta,Fuzzy (phonetic),FALSE,Mimosa regnellii var. grossiseta,Accepted,1,
+366,1454,Mimosa reitzzi,Fuzzy (edit distance),FALSE,Mimosa mitzi,Accepted,1,
+367,1473,Mimosa riscosa,Fuzzy (edit distance),FALSE,Mimosa viscosa,Synonym,1,
+368,1475,Mimosa rixosa var. inermis,Fuzzy (edit distance),FALSE,Mimosa viscosa var. inermis,Synonym,1,
+369,1479,Mimosa rodhostachya,Fuzzy (edit distance),FALSE,Mimosa rhodostachya,Synonym,1,
+370,1480,Mimosa rodostachya,Fuzzy (edit distance),FALSE,Mimosa rhodostachya,Synonym,1,
+371,1484,Mimosa rosariense,Fuzzy (edit distance),FALSE,Mimosa rosariensis,Synonym,1,
+372,1489,Mimosa rubicaulis var. himalayana,Fuzzy (edit distance),FALSE,Mimosa rubicaulis subsp. himalayana,Accepted,1,
+373,1493,Mimosa rudis var. latifoliolata,Fuzzy (edit distance),FALSE,Mimosa rudis f. latifoliolata,Synonym,1,
+374,1496,Mimosa rufescens var. annis-atri,Fuzzy (edit distance),FALSE,Mimosa rufescens var. amnis-nigri,Accepted,1,
+375,1505,Mimosa russellii,Fuzzy (edit distance),TRUE,Viola russellii,Synonym,0,Fuzzy match rejected
+376,1505,Mimosa russellii,Fuzzy (edit distance),TRUE,Mimosa regnellii,Accepted,1,
+377,1507,Mimosa saepiaria,Fuzzy (phonetic),TRUE,Mimosa spuria,Synonym,0,Fuzzy match rejected
+378,1507,Mimosa saepiaria,Fuzzy (phonetic),TRUE,Mimosa sepiaria,Synonym,1,
+379,1510,Mimosa samnians,Fuzzy (phonetic),FALSE,Mimosa somnians,Accepted,1,
+380,1512,Mimosa sarsina,Fuzzy (edit distance),FALSE,Mimosa ursina,Accepted,1,Fuzzy match rejected
+381,1514,Mimosa scabrela,Fuzzy (phonetic),FALSE,Mimosa scabrella,Accepted,1,
+382,1517,Mimosa scabrella var. scabrella,Fuzzy (edit distance),FALSE,Mimosa scabrella,Accepted,1,
+383,1519,Mimosa scbrella,Fuzzy (phonetic),FALSE,Mimosa scabrella,Accepted,1,
+384,1523,Mimosa schrankioides var. benth.,Fuzzy (edit distance),FALSE,Mimosa schrankioides,Synonym,1,
+385,1527,Mimosa scrabella,Fuzzy (edit distance),FALSE,Mimosa scabrella,Accepted,1,
+386,1528,Mimosa sebosa,Fuzzy (edit distance),FALSE,Mimosa setosa,Accepted,1,
+387,1533,Mimosa sensibilis var. spegazzinii,Fuzzy (edit distance),FALSE,Mimosa sensibilis var. sensibilis,Accepted,1,
+388,1534,Mimosa sensibilis var. urucumbensis,Fuzzy (phonetic),FALSE,Mimosa sensibilis var. urucumensis,Accepted,1,
+389,1535,Mimosa sensibilis var. urucumensi,Fuzzy (edit distance),FALSE,Mimosa sensibilis var. urucumensis,Accepted,1,
+390,1537,Mimosa sensibilis var. viscida,Fuzzy (edit distance),TRUE,Mimosa somnians var. viscida,Illegitimate,0,Fuzzy match rejected
+391,1537,Mimosa sensibilis var. viscida,Fuzzy (edit distance),TRUE,Mimosa debilis var. vestita,Accepted,1,
+392,1538,Mimosa sensisbilis var. sensibilis,Fuzzy (edit distance),FALSE,Mimosa sensibilis var. sensibilis,Accepted,1,
+393,1539,Mimosa sensitiva l. var. sensitiva,Fuzzy (edit distance),FALSE,Mimosa sensitiva var. sensitiva,Accepted,1,
+394,1547,Mimosa seriacantha,Fuzzy (phonetic),FALSE,Mimosa sericantha,Accepted,1,
+395,1558,Mimosa Setosa Var paludosa,Fuzzy (phonetic),FALSE,Mimosa setosa var. paludosa,Synonym,1,
+396,1559,Mimosa setosa var. granitica,Fuzzy (edit distance),FALSE,Mimosa setosa subsp. granitica,Synonym,1,
+397,1563,Mimosa setosa var. padulosa,Fuzzy (edit distance),FALSE,Mimosa setosa var. paludosa,Synonym,1,
+398,1583,Mimosa simonii,Fuzzy (edit distance),TRUE,Mimosa lemmonii,Synonym,0,Fuzzy match rejected
+399,1583,Mimosa simonii,Fuzzy (edit distance),TRUE,Mimosa wilsonii,Synonym,0,Fuzzy match rejected
+400,1587,Mimosa skineri,Fuzzy (phonetic),FALSE,Mimosa skinneri,Accepted,1,
+401,1595,Mimosa soderstromii,Fuzzy (edit distance),FALSE,Poa soderstromii,Synonym,0,Fuzzy match rejected
+402,1596,Mimosa somians var. lasiocarpa,Fuzzy (edit distance),FALSE,Mimosa somnians var. lasiocarpa,Accepted,1,
+403,1597,Mimosa somians var. leptocaulis,Fuzzy (edit distance),FALSE,Mimosa somnians var. leptocaulis,Accepted,1,
+404,1598,Mimosa somians,Fuzzy (edit distance),FALSE,Mimosa somnians,Accepted,1,
+405,1602,Mimosa somnians var. glabra,Fuzzy (edit distance),FALSE,Mimosa somnians var. glandulosa,Synonym,1,
+406,1616,Mimosa somnians var. velascoënsis,Fuzzy (phonetic),TRUE,Mimosa somnians var. velascoensis,Accepted,1,
+407,1619,Mimosa somnians var. velascoënsis,Fuzzy (phonetic),TRUE,Mimosa somnians var. velascoensis,Accepted,1,
+408,1620,Mimosa somnians var. veloseoensis,Fuzzy (edit distance),FALSE,Mimosa somnians var. velascoensis,Accepted,1,
+409,1622,Mimosa somnianus,Fuzzy (phonetic),FALSE,Mimosa somnians,Accepted,1,
+410,1623,Mimosa somnias,Fuzzy (edit distance),FALSE,Mimosa somnians,Accepted,1,
+411,1624,Mimosa sonnians,Fuzzy (edit distance),FALSE,Mimosa somnians,Accepted,1,
+412,1629,Mimosa sparciformis,Fuzzy (phonetic),FALSE,Mimosa sparsiformis,Accepted,1,
+413,1640,Mimosa sprengelli,Fuzzy (phonetic),FALSE,Mimosa sprengelii,Accepted,1,
+414,1641,Mimosa sprengellii,Fuzzy (phonetic),FALSE,Mimosa sprengelii,Accepted,1,
+415,1654,Mimosa subenervia,Fuzzy (edit distance),FALSE,Mimosa subenervis,Accepted,1,
+416,1658,Mimosa subnervia,Fuzzy (edit distance),TRUE,Mimosa subnervosa,Invalid,0,Fuzzy match rejected
+417,1658,Mimosa subnervia,Fuzzy (edit distance),TRUE,Mimosa subenervis,Accepted,1,
+418,1659,Mimosa subnervis,Fuzzy (phonetic),TRUE,Mimosa subnervosa,Invalid,0,Fuzzy match rejected
+419,1659,Mimosa subnervis,Fuzzy (phonetic),TRUE,Mimosa subenervis,Accepted,1,
+420,1660,Mimosa subscoicea,Fuzzy (edit distance),FALSE,Mimosa subsericea,Synonym,1,
+421,1661,Mimosa subsencea,Fuzzy (edit distance),FALSE,Mimosa subsericea,Synonym,1,
+422,1662,Mimosa subsericea var. acerosa,Fuzzy (edit distance),FALSE,Mimosa subsericea f. acerosa,Synonym,1,
+423,1663,Mimosa subsericea var. armata,Fuzzy (edit distance),FALSE,Mimosa subsericea f. armata,Synonym,1,
+424,1664,Mimosa subsericea var. hirsuto-strigosa,Fuzzy (phonetic),FALSE,Mimosa subsericea var. hirsutostrigosa,Synonym,1,
+425,1666,Mimosa subsericea var. minor,Fuzzy (edit distance),FALSE,Mimosa subsericea f. minor,Synonym,1,
+426,1669,Mimosa subsericea var. strigoso-aculeata,Fuzzy (phonetic),FALSE,Mimosa subsericea var. strigosoaculeata,Synonym,1,
+427,1671,Mimosa subsericeae,Fuzzy (phonetic),FALSE,Mimosa subsericea,Synonym,1,
+428,1675,Mimosa sulphurea,Fuzzy (edit distance),TRUE,Mimosa purpurea,Synonym,0,Fuzzy match rejected
+429,1675,Mimosa sulphurea,Fuzzy (edit distance),TRUE,Mitina sulphurea,Synonym,0,Fuzzy match rejected
+430,1675,Mimosa sulphurea,Fuzzy (edit distance),TRUE,Rosa sulphurea,Synonym,0,Fuzzy match rejected
+431,1682,Mimosa surumuënsis,Fuzzy (phonetic),FALSE,Mimosa surumuensis,Accepted,1,
+432,1692,Mimosa temuiflora,Fuzzy (edit distance),TRUE,Mimosa tenuiflora,Accepted,1,
+433,1692,Mimosa temuiflora,Fuzzy (edit distance),TRUE,Mimosa tenuiflora,Illegitimate,0,Fuzzy match rejected
+434,1693,Mimosa tenebiles,Fuzzy (edit distance),TRUE,Mimosa terribilis,Accepted,0,Fuzzy match rejected
+435,1693,Mimosa tenebiles,Fuzzy (edit distance),TRUE,Mimosa sensibilis,Accepted,0,Fuzzy match rejected
+436,1698,Mimosa terniflora,Fuzzy (edit distance),TRUE,Mimosa tenuiflora,Accepted,0,Fuzzy match rejected
+437,1698,Mimosa terniflora,Fuzzy (edit distance),TRUE,Mimosa tenuiflora,Illegitimate,0,Fuzzy match rejected
+438,1698,Mimosa terniflora,Fuzzy (edit distance),TRUE,Mimosa triflora,Invalid,0,Fuzzy match rejected
+439,1699,Mimosa ternuiflora,Fuzzy (edit distance),TRUE,Mimosa tenuiflora,Accepted,1,
+440,1699,Mimosa ternuiflora,Fuzzy (edit distance),TRUE,Mimosa tenuiflora,Illegitimate,0,Fuzzy match rejected
+441,1732,Mimosa trigonacantha,Fuzzy (edit distance),FALSE,Mimosa chionacantha,Synonym,1,
+442,1738,Mimosa tweediana,Fuzzy (phonetic),FALSE,Mimosa tweedieana,Accepted,1,
+443,1749,Mimosa uniflora,Fuzzy (edit distance),TRUE,Mimosa coniflora,Accepted,0,Fuzzy match rejected
+444,1749,Mimosa uniflora,Fuzzy (edit distance),TRUE,Mimosa juliflora,Synonym,0,Fuzzy match rejected
+445,1749,Mimosa uniflora,Fuzzy (edit distance),TRUE,Mimosa nudiflora,Synonym,0,Fuzzy match rejected
+446,1750,Mimosa uninervia,Fuzzy (edit distance),FALSE,Mimosa uninervis,Accepted,1,
+447,1755,Mimosa urandinensis,Fuzzy (edit distance),FALSE,Mimosa urandiensis,Accepted,1,
+448,1756,Mimosa urbaniana,Fuzzy (edit distance),FALSE,Miconia urbaniana,Accepted,0,Fuzzy match rejected
+449,1758,Mimosa urbica var. urbana,Fuzzy (edit distance),FALSE,Mimosa setosa var. urbana,Accepted,1,
+450,1762,Mimosa uruguensis,Fuzzy (phonetic),FALSE,Mimosa uraguensis,Accepted,1,
+451,1764,Mimosa veiioziana,Fuzzy (edit distance),FALSE,Mimosa velloziana,Accepted,1,
+452,1768,Mimosa velloziana var. acutifolia,Fuzzy (edit distance),FALSE,Mimosa velloziana f. acutifolia,Synonym,1,
+453,1771,Mimosa velloziana var. hispida,Fuzzy (edit distance),FALSE,Mimosa velloziana f. hispida,Synonym,1,
+454,1777,Mimosa velloziana var. velloziana,Fuzzy (edit distance),TRUE,Mimosa velloziana var. malmeana,Synonym,1,
+455,1777,Mimosa velloziana var. velloziana,Fuzzy (edit distance),TRUE,Mimosa velloziana var. genuina,Invalid,0,Fuzzy match rejected
+456,1778,Mimosa velloziana var.velloziana,Fuzzy (edit distance),FALSE,Mimosa velloziana var. malmeana,Synonym,1,
+457,1779,Mimosa velloziana var. velloziana,Fuzzy (edit distance),TRUE,Mimosa velloziana var. malmeana,Synonym,1,
+458,1779,Mimosa velloziana var. velloziana,Fuzzy (edit distance),TRUE,Mimosa velloziana var. genuina,Invalid,0,Fuzzy match rejected
+459,1780,Mimosa vellozoana,Fuzzy (phonetic),TRUE,Mimosa velloziana,Accepted,1,
+460,1782,Mimosa venosa,Fuzzy (edit distance),TRUE,Mimosa venusta,Synonym,0,Fuzzy match rejected
+461,1782,Mimosa venosa,Fuzzy (edit distance),TRUE,Mimosa arenosa,Accepted,0,Fuzzy match rejected
+462,1787,Mimosa verrugosa,Fuzzy (phonetic),FALSE,Mimosa verrucosa,Accepted,1,
+463,1794,Mimosa viridiflora,Fuzzy (edit distance),FALSE,Miliusa viridiflora,Accepted,0,Fuzzy match rejected
+464,1805,Mimosa weddeliana,Fuzzy (phonetic),FALSE,Mimosa weddelliana,Accepted,1,
+465,1828,Mimosa xanthocentra var.subsericea,Fuzzy (edit distance),FALSE,Mimosa xanthocentra var. subsericea,Accepted,1,
+466,1831,Mimosa xantocentra,Fuzzy (edit distance),FALSE,Mimosa xanthocentra,Accepted,1,
+467,1832,Mimosa xauthoceutra,Fuzzy (edit distance),FALSE,Mimosa xanthocentra,Accepted,1,
+468,1833,Mimosa xavantina,Fuzzy (edit distance),FALSE,Mimosa xavantinae,Synonym,1,

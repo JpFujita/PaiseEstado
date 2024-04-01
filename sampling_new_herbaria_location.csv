@@ -1,0 +1,434 @@
+"","X","taxon","cen.dna","cen.silica","mimobaits","nit.fix","nit.fix.dna","country","state"
+"1",1,"Piptadeniastrum",NA,NA,NA,NA,NA,NA,NA
+"2",2,"Piptadenia",NA,NA,NA,NA,NA,NA,NA
+"3",3,"Mimosa",NA,NA,NA,NA,NA,NA,NA
+"4",4,"Neptunia",NA,NA,NA,NA,NA,NA,NA
+"5",5,"Adenopodia",NA,NA,NA,NA,NA,NA,NA
+"6",6,"Piptadenia santosii",NA,NA,NA,NA,NA,NA,NA
+"7",7,"Piptadenia imatacae",NA,NA,NA,NA,NA,NA,NA
+"8",8,"Piptadenia laxipinna",NA,NA,NA,NA,NA,NA,NA
+"9",9,"Piptadenia floribunda",NA,NA,NA,NA,NA,NA,NA
+"10",10,"Piptadenia amazonica",NA,NA,NA,NA,NA,NA,NA
+"11",11,"Piptadenia uliginosa",NA,NA,NA,NA,NA,NA,NA
+"12",12,"Piptadenia anolidurus",NA,NA,NA,NA,NA,NA,NA
+"13",13,"Piptadenia weberbaueri",NA,NA,NA,NA,NA,NA,NA
+"14",14,"Piptadenia cuzcoensis",NA,NA,NA,NA,NA,NA,NA
+"15",15,"Piptadenia irwinii",NA,NA,NA,NA,NA,NA,NA
+"16",16,"Piptadenia micracantha",NA,NA,NA,NA,NA,NA,NA
+"17",17,"Piptadenia retusa",NA,NA,NA,NA,NA,NA,NA
+"18",18,"Piptadenia ramosissima",NA,NA,NA,NA,NA,NA,NA
+"19",19,"Piptadenia minutiflora",NA,NA,NA,NA,NA,NA,NA
+"20",20,"Piptadenia boliviana",NA,NA,NA,NA,NA,NA,NA
+"21",21,"Piptadenia voronoffii",NA,NA,NA,NA,NA,NA,NA
+"22",22,"Piptadenia peruviana",NA,NA,NA,NA,NA,NA,NA
+"23",23,"Piptadenia pteroclada",NA,NA,NA,NA,NA,NA,NA
+"24",24,"Piptadenia affinis",NA,NA,NA,NA,NA,NA,NA
+"25",25,"Piptadenia killipii",NA,NA,NA,NA,NA,NA,NA
+"26",26,"Mimosa guaiaguilensis",NA,NA,NA,NA,NA,NA,NA
+"27",27,"Mimosa rhombifolia",NA,NA,NA,NA,NA,NA,NA
+"28",28,"Mimosa ouyrarema",NA,NA,NA,NA,NA,NA,NA
+"29",29,"Mimosa pilosa",NA,NA,NA,NA,NA,NA,NA
+"30",30,"Mimosa trinervis",NA,NA,NA,NA,NA,NA,NA
+"31",31,"Mimosa rhodacantha",NA,NA,NA,NA,NA,NA,NA
+"32",32,"Mimosa natans",NA,NA,NA,NA,NA,NA,NA
+"33",33,"Mimosa fruticosa",NA,NA,NA,NA,NA,NA,NA
+"34",34,"Mimosa dichotoma",NA,NA,NA,NA,NA,NA,NA
+"35",35,"Mimosa diadema",NA,NA,NA,NA,NA,"Peru.Brazil","Rio de Janeiro"
+"36",36,"Mimosa chrysantha",NA,NA,NA,NA,NA,"Brazil","Minas Gerais"
+"37",37,"Mimosa lentiscifolia",NA,NA,NA,NA,NA,"Brazil","Rio Grande do Sul"
+"38",38,"Mimosa barrancana",NA,NA,NA,NA,NA,"Mexico","Durango"
+"39",39,"Mimosa fagaracantha",NA,NA,NA,NA,NA,"Cuba",NA
+"40",40,"Mimosa longiracemosa",NA,NA,NA,NA,NA,"Brazil.Argentina","Distrito Federal.Misiones"
+"41",41,"Mimosa detonsa",NA,NA,NA,NA,NA,"Brazil","Goiás"
+"42",42,"Mimosa parvifoliolata",NA,NA,NA,NA,NA,NA,NA
+"43",43,"Mimosa kitrokala",NA,NA,NA,NA,NA,"Madagascar","Toliara"
+"44",44,"Mimosa australis",NA,NA,NA,NA,NA,"Uruguay",NA
+"45",45,"Mimosa epitropica",NA,NA,NA,NA,NA,"Mexico","Baja california sur.Baja California Sur"
+"46",46,"Mimosa tucumensis",NA,NA,NA,NA,NA,"Brazil","Paraná.Bahia"
+"47",47,"Mimosa widgrenii",NA,NA,NA,NA,NA,"Brazil",NA
+"48",48,"Mimosa altoparanensis",NA,NA,NA,NA,NA,"Paraguay.Brazil","Caazapá.Canindeyú.Alto Paraná.Santa Catarina"
+"49",49,"Mimosa chochisensis",NA,NA,NA,NA,NA,"Bolivia",NA
+"50",50,"Mimosa asperoides",NA,NA,NA,NA,NA,"Brazil","Rs.Rio Grande do Sul"
+"51",51,"Mimosa dupuyana",NA,NA,NA,NA,NA,"Madagascar","Toliara.atsimo-andrefana"
+"52",52,"Mimosa lemniscata",NA,NA,NA,NA,NA,"Colombia","Magdalena"
+"53",53,"Mimosa brevipes",NA,NA,NA,NA,NA,"Paraguay.Brazil","Mato Grosso do Sul.Amambay.Minas Gerais.Mato Grosso"
+"54",54,"Mimosa haavoa",NA,NA,NA,NA,NA,"Madagascar","Toamasina.Toliara"
+"55",55,"Mimosa cubatanensis",NA,NA,NA,NA,NA,"Brazil","Distrito Federal.Paraná.Rio de Janeiro.Espírito Santo.Rj.São Paulo"
+"56",56,"Mimosa puberula",NA,NA,NA,NA,NA,"Mexico","Queretaro.Queretaro de arteaga.Hidalgo"
+"57",57,"Mimosa eriocarpa",NA,NA,NA,NA,NA,"Brazil","Rio Grande do Sul.Santa Catarina.Rs.Mato Grosso do Sul"
+"58",58,"Mimosa tetragona",NA,NA,NA,NA,NA,"Equador.Nicaragua.Brazil.Mexico","Pastaza.Atlántico Sur.Ms.Mato Grosso do Sul.San luis potosi"
+"59",59,"Mimosa diplacantha",NA,NA,NA,NA,NA,"Dominican Republic.Jamaica","Pedernales.Dominican Republic.Azua.Independencia"
+"60",60,"Mimosa exalbescens",NA,NA,NA,NA,NA,"Brazil","Bahia.Maranhão.Pernambuco.Minas Gerais"
+"61",61,"Mimosa centurionis",NA,NA,NA,NA,NA,"Paraguay.Brazil","Mato Grosso do Sul"
+"62",62,"Mimosa jaenensis",NA,NA,NA,NA,NA,"Peru","Cajamarca"
+"63",63,"Mimosa intricata",NA,NA,NA,NA,NA,"Brazil","Paraná.Rio Grande do Sul"
+"64",64,"Mimosa implexa",NA,NA,NA,NA,NA,"Uruguay.Brazil","Tacuarembó.Rio Grande do Sul"
+"65",65,"Mimosa ramentacea",NA,NA,NA,NA,NA,"Brazil","Santa Catarina.Sc.Paraná"
+"66",66,"Mimosa hypnodes",NA,NA,NA,NA,NA,"Brazil","Goiás"
+"67",67,"Mimosa sobralii",NA,NA,NA,NA,NA,"Brazil","Rio Grande do Sul.Rs"
+"68",68,"Mimosa mitzi",NA,NA,NA,NA,NA,"Brazil","Minas Gerais"
+"69",69,"Mimosa cordobensis",NA,NA,NA,NA,NA,"Argentina","Córdoba"
+"70",70,"Mimosa aureliana",NA,NA,NA,NA,NA,"Paraguay.Brazil","Rio Grande do Sul"
+"71",71,"Mimosa leptantha",NA,NA,NA,NA,NA,"Brazil","Ceará.Paraíba.Rio Grande do Norte.Piauí"
+"72",72,"Mimosa setistipula",NA,NA,NA,NA,NA,"Brazil","Minas Gerais.São Paulo"
+"73",73,"Mimosa brachystachya",NA,NA,NA,NA,NA,"Brazil",NA
+"74",74,"Mimosa lundiana",NA,NA,NA,NA,NA,"Brazil","São Paulo"
+"75",75,"Mimosa rocae",NA,NA,NA,NA,NA,"Argentina.Brazil","Buenos Aires.Entre Ríos.Rs.Rio Grande do Sul"
+"76",76,"Mimosa caccavariana",NA,NA,NA,NA,NA,"Brazil","Goiás.Go"
+"77",77,"Mimosa struthionoptera",NA,NA,NA,NA,NA,"Brazil","Goiás"
+"78",78,"Mimosa hirsuticaulis",NA,NA,NA,NA,NA,"Brazil","Bahia"
+"79",79,"Mimosa setuliseta",NA,NA,NA,NA,NA,"Mexico","Durango.Coahuila de zaragoza"
+"80",80,"Mimosa porrecta",NA,NA,NA,NA,NA,"Brazil","Rio de Janeiro.2049.Minas Gerais.Rj.São Paulo"
+"81",81,"Mimosa alleniana",NA,NA,NA,NA,NA,"Brazil.Paraguay.Bolivia","Mato Grosso do Sul.São Paulo.Sp.Amambay.Santa Cruz.Goiás.Ms"
+"82",82,"Mimosa surumuensis",NA,NA,NA,NA,NA,"Guyana.Brazil.Venezuela","Upper Takutu-Upper Essequibo.U. Takutu-U. Essequibo.Potaro-Siparuni.Amazonas.Roraima"
+"83",83,"Mimosa vexans",NA,NA,NA,NA,NA,"Venezuela","Yaracuy"
+"84",84,"Mimosa decumbens",NA,NA,NA,NA,NA,"Brazil","Minas Gerais"
+"85",85,"Mimosa itatiaiensis",NA,NA,NA,NA,NA,"Brazil","Rio de Janeiro.Minas Gerais"
+"86",86,"Mimosa cuzcoana",NA,NA,NA,NA,NA,"Peru","Cusco.Cuzco"
+"87",87,"Mimosa bombycina",NA,NA,NA,NA,NA,"Brazil","Minas Gerais"
+"88",88,"Mimosa glabra",NA,NA,NA,NA,NA,"Brazil","Rio Grande do Sul"
+"89",89,"Mimosa nossibiensis",NA,NA,NA,NA,NA,"Madagascar","mahajanga.Mahajanga.Antsiranana.Toliara.Mahajanga (Majunga)"
+"90",90,"Mimosa chaetosphaera",NA,NA,NA,NA,NA,"Brazil","Mato Grosso do Sul.São Paulo.Paraná.Mato Grosso.Sc.Ms.Santa Catarina.Rio Grande do Sul"
+"91",91,"Mimosa simplicissima",NA,NA,NA,NA,NA,"Colombia.Bolivia","Norte de Santander.El Beni.Meta"
+"92",92,"Mimosa dumetaria",NA,NA,NA,NA,NA,"Madagascar","Toliara"
+"93",93,"Mimosa tweedieana",NA,NA,NA,NA,NA,"Bolivia.Argentina.Colombia.Brazil","El Beni.Beni.Buenos Aires.Entre Ríos.Santa Fé.Amazonas.Casanare.Vichada.Caquetá.Guainía.Meta.Guaviare.Chaco.Rio Grande do Sul"
+"94",94,"Mimosa falcipinna",NA,NA,NA,NA,NA,"Brazil","Distrito Federal.Goiás.Minas Gerais.São Paulo.Go.To.Df.Rio Grande do Sul.Santa Catarina.Paraná.Tocantins"
+"95",95,"Mimosa disperma",NA,NA,NA,NA,NA,"Equador","Guayas"
+"96",96,"Mimosa pedunculosa",NA,NA,NA,NA,NA,"Paraguay",NA
+"97",97,"Mimosa morongii",NA,NA,NA,NA,NA,"Paraguay","Central"
+"98",98,"Mimosa humifusa",NA,NA,NA,NA,NA,"Brazil","Minas Gerais"
+"99",99,"Mimosa neonitens",NA,NA,NA,NA,NA,"Brazil","Minas Gerais.Mg"
+"100",100,"Mimosa ostenii",NA,NA,NA,NA,NA,"Argentina.Brazil","Entre Ríos.Bahia"
+"101",101,"Mimosa digitata",NA,NA,NA,NA,NA,"Brazil","Goiás.Minas Gerais.São Paulo"
+"102",102,"Mimosa andringitrensis",NA,NA,NA,NA,NA,"Madagascar","Fianarantsoa"
+"103",103,"Mimosa planitei",NA,NA,NA,NA,NA,"Madagascar","Antsiranana.Mahajanga"
+"104",104,"Mimosa leimonias",NA,NA,NA,NA,NA,"Paraguay","Concepción"
+"105",105,"Mimosa roseoalba",NA,NA,NA,NA,NA,"Brazil","Mato Grosso do Sul"
+"106",106,"Mimosa urbica",NA,NA,NA,NA,NA,"Brazil","Df.Distrito Federal.Goiás"
+"107",107,"Mimosa carolina",NA,NA,NA,NA,NA,"Brazil","Ma.Maranhão"
+"108",108,"Mimosa leonardii",NA,NA,NA,NA,NA,NA,NA
+"109",109,"Mimosa trichocephala",NA,NA,NA,NA,NA,"Brazil",NA
+"110",110,"Mimosa balansae",NA,NA,NA,NA,NA,"Paraguay.Argentina.Brazil","Alto Paraguay.Paraguarí.Cordillera.Central.Misiones.Caaguazú.Corrientes.Presidente Hayes.Formosa.Entre Ríos.Rio Grande do Sul.Concepción.Rs.San Pedro.Mato Grosso"
+"111",111,"Mimosa chodatii",NA,NA,NA,NA,NA,"Brazil","Mato Grosso do Sul"
+"112",112,"Mimosa quitensis",NA,NA,NA,NA,1,"Colombia.Equador","Cauca.Imbabura.Pichincha.Tungurahua.Loja.Carchi.Chimborazo.Nariño.Valle del Cauca"
+"113",113,"Mimosa canastrensis",NA,NA,NA,NA,NA,"Brazil","Minas Gerais"
+"114",114,"Mimosa iperoensis",NA,NA,NA,NA,NA,"Brazil","São Paulo.Rio Grande do Sul.Paraná"
+"115",115,"Mimosa domingensis",NA,NA,NA,NA,NA,"Dominican Republic.Jamaica","Barahona Prov..Dominican Republic.San Cristóbal.Azua.Peravia.Independencia.Pedernales.Barahona"
+"116",116,"Mimosa rondoniana",NA,NA,NA,NA,NA,NA,NA
+"117",117,"Mimosa afranioi",NA,NA,NA,NA,NA,"Brazil","Minas Gerais"
+"118",118,"Mimosa baptistae",NA,NA,NA,NA,NA,"Brazil","Rs.Rio Grande do Sul"
+"119",119,"Mimosa montana",NA,NA,NA,NA,NA,"Peru","Department Ancash"
+"120",120,"Mimosa martin-delcampoi",NA,NA,NA,NA,NA,"Mexico","Tamaulipas.Coahuila de zaragoza"
+"121",121,"Mimosa custodis",NA,NA,NA,NA,NA,"Brazil","Mato Grosso do Sul.Paraná.Santa Catarina"
+"122",122,"Mimosa scaberrima",NA,NA,NA,NA,NA,NA,NA
+"123",123,"Mimosa bipennatula",NA,NA,NA,NA,NA,"Brazil","Mato Grosso"
+"124",124,"Mimosa pseudoracemosa",NA,NA,NA,NA,NA,"Brazil","Go.Goiás"
+"125",125,"Mimosa falconis",NA,NA,NA,NA,NA,"Venezuela","Falcón"
+"126",126,"Mimosa auriberbis",NA,NA,NA,NA,NA,"Brazil","Distrito Federal.Goiás"
+"127",127,"Mimosa chelata",NA,NA,NA,NA,NA,"Brazil","Rio Grande do Sul"
+"128",128,"Mimosa paraguariae",NA,NA,NA,NA,NA,"Argentina.Brazil.Paraguay","Paraná.Pr.Misiones.Parana.Rio Grande do Sul"
+"129",129,"Mimosa platyphylla",NA,NA,NA,NA,NA,"Brazil","Mato Grosso.Bahia.Distrito Federal"
+"130",130,"Mimosa tejupilcana",NA,NA,NA,NA,NA,"Mexico","Mexico"
+"131",131,"Mimosa thomista",NA,NA,NA,NA,NA,"Brazil","Minas Gerais.Mg"
+"132",132,"Mimosa chiquitaniensis",NA,NA,NA,NA,NA,"Bolivia",NA
+"133",133,"Mimosa inamoena",NA,NA,NA,NA,NA,NA,NA
+"134",134,"Mimosa setifera",NA,NA,NA,NA,NA,"Brazil",NA
+"135",135,"Mimosa rupestris",NA,NA,NA,NA,NA,"Poland.Brazil","Rs.Rio Grande do Sul.Santa Catarina.Paraná.Rio de Janeiro"
+"136",136,"Mimosa troncosoae",NA,NA,NA,NA,NA,"Paraguay","Chaco"
+"137",137,"Mimosa kuhlmannii",NA,NA,NA,NA,NA,NA,NA
+"138",138,"Mimosa pusilliceps",NA,NA,NA,NA,NA,"Brazil","Pará.Par"
+"139",139,"Mimosa foreroana",NA,NA,NA,NA,NA,NA,NA
+"140",140,"Mimosa urandiensis",NA,NA,NA,NA,NA,"Brazil","Bahia"
+"141",141,"Mimosa kermesina",NA,NA,NA,NA,NA,NA,NA
+"142",142,"Mimosa uninervis",NA,NA,NA,NA,NA,"Paraguay.Brazil","Canindeyú.Mato Grosso do Sul.São Paulo.Minas Gerais.Rio Grande do Sul"
+"143",143,"Mimosa savokaea",NA,NA,NA,NA,NA,"Madagascar","Mahajanga.Antsiranana.Vohémar.Antananarivo"
+"144",144,"Mimosa pseudopetiolaris",NA,NA,NA,NA,NA,"Paraguay.Brazil","Paraguarí.Amazonas.Caaguazú"
+"145",145,"Mimosa glaucula",NA,NA,NA,NA,NA,"Brazil","Bahia.Tocantins.Maranhão.To"
+"146",146,"Mimosa axillarioides",NA,NA,NA,NA,NA,"Brazil","Rs.Rio Grande do Sul"
+"147",147,"Mimosa castanoclada",NA,NA,NA,NA,NA,"Paraguay.Bolivia","Alto Paraguay.Nueva Asuncion.Santa Cruz.Chaco"
+"148",148,"Mimosa tandilensis",NA,NA,NA,NA,NA,"Argentina.Brazil","Buenos Aires.Rio Grande do Sul"
+"149",149,"Mimosa leptorhachis",NA,NA,NA,NA,NA,"Brazil",NA
+"150",150,"Mimosa barberi",NA,NA,NA,NA,NA,"India",NA
+"151",151,"Mimosa amambayensis",NA,NA,NA,NA,NA,"Paraguay",NA
+"152",152,"Mimosa distachya",NA,NA,NA,NA,NA,"Mexico.Colombia.United States","Guerrero.Sonora.Veracruz de ignacio de la llave.Nayarit.Sinaloa.Jalisco.México.Colima.Baja california sur.Oaxaca.Yucatán.Puebla.Michoacán.Magdalena.Michoacan.Baja California Sur"
+"153",153,"Mimosa sevilhae",NA,NA,NA,NA,NA,"Brazil","Tocantins"
+"154",154,"Mimosa monclovensis",NA,NA,NA,NA,NA,NA,NA
+"155",155,"Mimosa uribeana",NA,NA,NA,NA,NA,"Colombia","Santander"
+"156",156,"Mimosa pseudotrachycarpa",NA,NA,NA,NA,NA,"Brazil","Rio Grande do Sul.Paraná"
+"157",157,"Mimosa lingvatouana",NA,NA,NA,NA,NA,"Madagascar","antsiranana.Antsiranana"
+"158",158,"Mimosa andina",NA,NA,NA,NA,NA,"Equador","Azuay.Cañar.Chimborazo"
+"159",159,"Mimosa dasilvae",NA,NA,NA,NA,NA,"Brazil","Pará"
+"160",160,"Mimosa macrocalyx",NA,NA,NA,NA,NA,"Paraguay.Argentina.Brazil","Caazapá.Misiones.Santa Catarina.Rio Grande do Sul"
+"161",161,"Mimosa petraea",NA,NA,NA,NA,NA,"Paraguay.Argentina.Brazil","Misiones.Paraguarí.Rio Grande do Sul.2006.Mato Grosso do Sul"
+"162",162,"Mimosa excedentis",NA,NA,NA,NA,NA,NA,NA
+"163",163,"Mimosa suffruticosa",NA,NA,NA,NA,NA,"Madagascar.Zambia","Mahajanga.Antsiranana.Toliara.Fianarantsoa.Northern"
+"164",164,"Mimosa uniceps",NA,NA,NA,NA,NA,"Brazil","Minas Gerais"
+"165",165,"Mimosa ekmanii",NA,NA,NA,NA,NA,"Cuba","Holguín"
+"166",166,"Mimosa tenuipendula",NA,NA,NA,NA,NA,"Paraguay.Bolivia","Cochabamba"
+"167",167,"Mimosa sceptrum",NA,NA,NA,NA,NA,"Brazil","Mato Grosso do Sul"
+"168",168,"Mimosa ernestii",NA,NA,NA,NA,NA,"Brazil","Rio de Janeiro.Rj"
+"169",169,"Mimosa deceptrix",NA,NA,NA,NA,NA,"Brazil","Paraná.Paraná "
+"170",170,"Mimosa diffusa",NA,NA,NA,NA,NA,"Brazil.Mexico","Jalisco.Sinaloa.Colima.Guerrero.Oaxaca.Michoacan de ocampo.Michoacan.Rio Grande do Sul"
+"171",171,"Mimosa orinocoensis",NA,NA,NA,NA,NA,"Venezuela","Apure.Amazonas.Delta Amacuro.Guárico"
+"172",172,"Mimosa niederleinii",NA,NA,NA,NA,NA,"Brazil","Paraná.Santa Catarina.Pr.Parana.Rio Grande do Sul.Cds.Rs"
+"173",173,"Mimosa myriacantha",NA,NA,NA,NA,NA,"Madagascar","Toamasina"
+"174",174,"Mimosa rubra",NA,NA,NA,NA,NA,"Brazil","Minas Gerais"
+"175",175,"Mimosa glaziovii",NA,NA,NA,NA,NA,"Brazil","Rio de Janeiro.Minas Gerais"
+"176",176,"Mimosa medioxima",NA,NA,NA,NA,NA,"Brazil","Alagoas.Bahia.Pernambuco.Espírito Santo.Ba"
+"177",177,"Mimosa monticola",NA,NA,NA,NA,NA,"Brazil","Rio de Janeiro.São Paulo.Sp.Rj.Minas Gerais"
+"178",178,"Mimosa williamsii",NA,NA,NA,NA,NA,"Bolivia.Panama","La Paz"
+"179",179,"Mimosa caduca",NA,NA,NA,NA,NA,"Equador.Venezuela","Loja"
+"180",180,"Mimosa mahilakensis",NA,NA,NA,NA,NA,"Madagascar","Toliara.Mahajanga"
+"181",181,"Mimosa burkartii",NA,NA,NA,NA,NA,"Brazil","Rio Grande do Sul"
+"182",182,"Mimosa luciana",NA,NA,NA,NA,NA,"Brazil.Mexico","Rs.Puebla"
+"183",183,"Mimosa pogonoclada",NA,NA,NA,NA,NA,"Brazil","Minas Gerais"
+"184",184,"Mimosa arturoana",NA,NA,NA,NA,NA,"Peru","Amazonas"
+"185",185,"Mimosa cryptogloea",NA,NA,NA,NA,NA,"Brazil","Mato Grosso do Sul"
+"186",186,"Mimosa trinerva",NA,NA,NA,NA,NA,"Brazil","Minas Gerais"
+"187",187,"Mimosa barnebiana",NA,NA,NA,NA,NA,"Argentina.Brazil","Corrientes.Pr.Paraná.Minas Gerais.Santa Catarina.Rio Grande do Sul"
+"188",188,"Mimosa candelabrum",NA,NA,NA,NA,NA,"Paraguay",NA
+"189",189,"Mimosa plumosa",NA,NA,NA,NA,NA,"Paraguay.Argentina","Paraguarí.Cordillera.Amambay.Misiones"
+"190",190,"Mimosa robsonii",NA,NA,NA,NA,NA,NA,NA
+"191",191,"Mimosa calliandroides",NA,NA,NA,NA,NA,"Brazil","Amazonas.Mato Grosso.Rondônia.Roraima"
+"192",192,"Mimosa sparsa",NA,NA,NA,NA,NA,"Brazil","Rio Grande do Sul.Rs.Goiás.Santa Catarina"
+"193",193,"Mimosa lasiocephala",NA,NA,NA,NA,NA,"Brazil","Rio Grande do Sul"
+"194",194,"Mimosa guanchezii",NA,NA,NA,NA,NA,"Venezuela.Colombia","Amazonas.Vichada.Arauca.Casanare"
+"195",195,"Mimosa brevipetiolata",NA,NA,NA,NA,NA,"Argentina.Paraguay.Brazil","Misiones.Cordillera.Rio Grande do Sul.Ms.Mato Grosso do Sul"
+"196",196,"Mimosa brachycarpoides",NA,NA,NA,NA,NA,"Guyana.Venezuela","U. Takutu-U. Essequibo.Bolívar.Bolivar.Rupununi"
+"197",197,"Mimosa macropogon",NA,NA,NA,NA,NA,"Brazil","Amazonas"
+"198",198,"Mimosa bocainae",NA,NA,NA,NA,NA,"Brazil","São Paulo"
+"199",199,"Mimosa floridana",NA,NA,NA,NA,NA,"United States","Florida"
+"200",200,"Mimosa niomarlei",NA,NA,NA,NA,NA,"Brazil","Ceará"
+"201",201,"Mimosa cylindracea",NA,NA,NA,NA,NA,"Brazil","São Paulo.Distrito Federal.2049.Minas Gerais.Goiás"
+"202",202,"Mimosa nycteridis",NA,NA,NA,NA,NA,"Brazil","Goiás"
+"203",203,"Mimosa pauli",NA,NA,NA,NA,NA,"Mexico","Sonora.Chihuahua"
+"204",204,"Mimosa insidiosa",NA,NA,NA,NA,NA,"Brazil.Bolivia.Peru","São Paulo.La Paz.Minas Gerais.2049.Cusco.Department Ancash"
+"205",205,"Mimosa lupinoides",NA,NA,NA,NA,NA,"Paraguay.Brazil","Mato Grosso do Sul.Canindeyú.Amambay.Caaguazú.Paraná"
+"206",206,"Mimosa coelocarpa",NA,NA,NA,NA,NA,"Mexico","Zacatecas.Sinaloa"
+"207",207,"Mimosa tanalarum",NA,NA,NA,NA,NA,"Madagascar","Fianarantsoa"
+"208",208,"Mimosa viva",NA,NA,NA,NA,NA,"Jamaica.Cuba","Cuba.Villa Clara.Santiago de Cuba.Guantanamo.Jamaica.Camagüey.La Habana"
+"209",209,"Mimosa balduinii",NA,NA,NA,NA,NA,"Brazil","Rio Grande do Sul.Rs.Rio Grande do.Santa Catarina"
+"210",210,"Mimosa menabeensis",NA,NA,NA,NA,NA,"Madagascar","Mahajanga.Toliara.Mahajanga (Majunga).Toliara (Tulear)"
+"211",211,"Mimosa capuronii",NA,NA,NA,NA,NA,"Madagascar","Antsiranana"
+"212",212,"Mimosa manomboensis",NA,NA,NA,NA,NA,"Madagascar","Toliara.Tuléar"
+"213",213,"Mimosa bracteolaris",NA,NA,NA,NA,NA,"Brazil","Rio Grande do Sul"
+"214",214,"Mimosa nitidula",NA,NA,NA,NA,NA,"Paraguay",NA
+"215",215,"Mimosa glanduliseta",NA,NA,NA,NA,NA,"Argentina.Brazil","Misiones.Mato Grosso do Sul.Rio Grande do Sul"
+"216",216,"Mimosa brevicalyx",NA,NA,NA,NA,NA,NA,NA
+"217",217,"Mimosa pseudolepidota",NA,NA,NA,NA,NA,"Brazil","Santa Catarina"
+"218",218,"Mimosa subinermis",NA,NA,NA,NA,NA,"Mexico.Brazil","Coahuila.Coahuila de zaragoza.Rio Grande do Sul"
+"219",219,"Mimosa caaguazuensis",NA,NA,NA,NA,NA,"Paraguay.Argentina","Misiones.Canindeyú"
+"220",220,"Mimosa platycarpa",NA,NA,NA,NA,NA,"Guatemala.Nicaragua.Mexico.Honduras.Costa Rica.El Salvador.United States.Brazil.México","Zacapa.Managua.Chiapas.Estelí.León.Choluteca.Matagalpa.Guanacaste.El Progreso.Chontales.Santa Ana.Boaco.Morazan.Texas.Jinotega.Oaxaca.Francisco Morazán.Baja Verapaz.El progreso.Paraíba.Ceará.Pernambuco"
+"221",221,"Mimosa multiplex",NA,NA,NA,NA,NA,"Brazil","Minas Gerais.Paraná"
+"222",222,"Mimosa cerifera",NA,NA,NA,NA,NA,"Brazil","Rs.Rio Grande do Sul"
+"223",223,"Mimosa berroi",NA,NA,NA,NA,NA,"Brazil.Uruguay","Rio Grande do Sul.Tacuarembó.Tacuarembo"
+"224",224,"Mimosa mainaea",NA,NA,NA,NA,NA,"Madagascar","Toliara"
+"225",225,"Mimosa fernandez-casasii",NA,NA,NA,NA,NA,"Brazil.Paraguay","Mato Grosso do Sul.Canindeyú"
+"226",226,"Mimosa tarda",NA,NA,NA,NA,NA,"Belize.Honduras.Guatemala.Equador.Costa Rica.Venezuela.Colombia.Panama.Mexico.Peru.Bolivia.Brazil.El Salvador","Toledo.Francisco Morazán Dept..Francisco Morazán.Olancho.Izabal.Pichincha.Stann Creek.Heredia.Amazonas.El Paraíso.Esmeraldas.Antioquia.Yoro.Santa Rosa.Cayo.Atlántida.San Blas.Chocó.Cortés.Copán.Santo Domingo de los Tsáchilas.Manabí.Alajuela.Oaxaca.Chiapas.Comayagua.Guanacaste.Veraguas.Vichada.La Páz.Cayo Distr..Francisco morazan.La Libertad.La Paz.Norte de Santander.Madre de Dios.Santa Catarina.Veracruz de ignacio de la llave.Ceará.Mato Grosso do Sul.Paraná"
+"227",227,"Mimosa schininii",NA,NA,NA,NA,NA,NA,NA
+"228",228,"Mimosa lawranceana",NA,NA,NA,NA,NA,"Colombia",NA
+"229",229,"Mimosa terribilis",NA,NA,NA,NA,NA,"Brazil","Rio Grande do Sul.Rs"
+"230",230,"Mimosa canahuensis",NA,NA,NA,NA,NA,"Guatemala",NA
+"231",231,"Mimosa guaviarensis",NA,NA,NA,NA,NA,"Colombia",NA
+"232",232,"Mimosa catharinensis",NA,NA,NA,NA,NA,"Brazil","Santa Catarina.Rio Grande do Sul.Rio de Janeiro"
+"233",233,"Mimosa filipetiola",NA,NA,NA,NA,NA,"Brazil","São Paulo.Santa Catarina.Paraná"
+"234",234,"Mimosa axillaris",NA,NA,NA,NA,NA,"Brazil.Argentina","Rio Grande do Sul.Misiones.2049.Santa Catarina.Paraná.São Paulo"
+"235",235,"Mimosa longistipula",NA,NA,NA,NA,NA,"Brazil","Minas Gerais"
+"236",236,"Mimosa riverensis",NA,NA,NA,NA,NA,"Brazil","Rs.Rio Grande do Sul"
+"237",237,"Mimosa serpensetosa",NA,NA,NA,NA,NA,"Brazil","Minas Gerais"
+"238",238,"Mimosa latidens",NA,NA,NA,NA,NA,"Mexico.United States","Coahuila.Coahuila de zaragoza.Texas.Durango"
+"239",239,"Mimosa rheiptera",NA,NA,NA,NA,NA,"Brazil","Goiás.Goias.Go"
+"240",240,"Neptunia dimorphantha",NA,NA,NA,NA,NA,NA,NA
+"241",241,"Neptunia major",NA,NA,NA,NA,NA,NA,NA
+"242",242,"Neptunia monosperma",NA,NA,NA,NA,NA,NA,NA
+"243",243,"Neptunia windleriana",NA,NA,NA,NA,NA,NA,NA
+"244",244,"Neptunia javanica",NA,NA,NA,NA,NA,NA,NA
+"245",245,"Neptunia amplexicaulis",NA,NA,NA,NA,NA,NA,NA
+"246",246,"Adenopodia schlechteri",NA,NA,NA,NA,NA,NA,NA
+"247",247,"Adenopodia rotundifolia",NA,NA,NA,NA,NA,NA,NA
+"248",248,"Adenopodia gymnantha",NA,NA,NA,NA,1,NA,NA
+"249",249,"Piptadenia irwinii var. unijuga",NA,NA,NA,NA,NA,NA,NA
+"250",250,"Piptadenia irwinii var. irwinii",NA,NA,NA,NA,NA,NA,NA
+"251",251,"Piptadenia killipii var. killipii",NA,NA,NA,NA,NA,NA,NA
+"252",252,"Piptadenia killipii var. cacaophila",NA,NA,NA,NA,NA,NA,NA
+"253",253,"Mimosa aurivillus var. warmingii",NA,NA,NA,NA,NA,"Brazil",NA
+"254",254,"Mimosa aurivillus var. sordescens",NA,NA,NA,NA,NA,"Brazil","Minas Gerais.Bahia"
+"255",255,"Mimosa aurivillus var. calothamnoides",NA,NA,NA,NA,NA,"Brazil","Bahia.Minas Gerais.Mg"
+"256",256,"Mimosa misera var. misera",NA,NA,NA,NA,NA,"Brazil","Rio Grande do Norte.Bahia.Ceará.Piauí.Pernambuco.Ce.Ba"
+"257",257,"Mimosa misera var. subinermis",NA,NA,NA,NA,NA,"Brazil","Bahia"
+"258",258,"Mimosa radula var. semitonsa",NA,NA,NA,NA,NA,"Brazil","Goiás.Minas Gerais"
+"259",259,"Mimosa radula var. radula",NA,NA,NA,NA,NA,"Brazil","Goiás.Minas Gerais.Mato Grosso do Sul.São Paulo"
+"260",260,"Mimosa radula var. calycina",NA,NA,NA,NA,NA,"Brazil","Mato Grosso.Minas Gerais.Goiás.São Paulo.Mato Grosso do Sul.Mg.Distrito Federal"
+"261",261,"Mimosa radula var. radulina",NA,NA,NA,NA,NA,"Brazil","Goiás.Distrito Federal.Go.Mg"
+"262",262,"Mimosa tricephala var. tricephala",NA,NA,NA,NA,NA,"Mexico.Costa Rica","Veracruz de ignacio de la llave.Puebla.Oaxaca.Guanacaste.Veracruz.Michoacán.Nayarit.Morelos.Baja California Sur.Guerrero.Michoacan de ocampo"
+"263",263,"Mimosa tricephala var. lagunensis",NA,NA,NA,NA,NA,"Mexico","Baja california sur.Baja California Sur"
+"264",264,"Mimosa tricephala var. lignosa",NA,NA,NA,NA,NA,"Mexico","Michoacán.Oaxaca"
+"265",265,"Mimosa rhododactyla var. rhododactyla",NA,NA,NA,NA,NA,"Mexico","Michoacán"
+"266",266,"Mimosa haavoa var. haavoa",NA,NA,NA,NA,NA,NA,NA
+"267",267,"Mimosa haavoa var. peltieri",NA,NA,NA,NA,NA,"Madagascar",NA
+"268",268,"Mimosa dolens subsp. rigida",NA,NA,NA,NA,NA,NA,NA
+"269",269,"Mimosa dolens var. pubescens",NA,NA,NA,NA,NA,"Argentina.Brazil","Corrientes.Rio Grande do Sul.São Paulo"
+"270",270,"Mimosa dolens var. uncta",NA,NA,NA,NA,NA,"Brazil","Paraná"
+"271",271,"Mimosa dolens var. latifolia",NA,NA,NA,NA,NA,"Brazil.Paraguay.Argentina","Mato Grosso do Sul.Paraná.Caaguazú.Misiones.Corrientes.Caazapá.Sp.Rio Grande do Sul.São Paulo.Bahia"
+"272",272,"Mimosa dolens var. rudis",NA,NA,NA,NA,NA,"Brazil.Paraguay","São Paulo.Paraná.Amambay"
+"273",273,"Mimosa dolens subsp. dolens",NA,NA,NA,NA,NA,"Brazil","Minas Gerais.Paraná.Mato Grosso do Sul.São Paulo.Rio de Janeiro.Distrito Federal.Mg.Goiás"
+"274",274,"Mimosa dolens var. foliolosa",NA,NA,NA,NA,NA,"Brazil.Paraguay.Argentina","São Paulo.Paraná.Caaguazú.Corrientes.Misiones.Entre Ríos.Amambay.2049.Rio Grande do Sul"
+"275",275,"Mimosa dolens var. deterior",NA,NA,NA,NA,NA,"Paraguay",NA
+"276",276,"Mimosa dolens subsp. eriophylla",NA,NA,NA,NA,NA,"Brazil","Paraná.São Paulo.Sp.Minas Gerais.Goiás"
+"277",277,"Mimosa dolens var. pangloea",NA,NA,NA,NA,NA,"Brazil","Paraná"
+"278",278,"Mimosa dolens subsp. callosa",NA,NA,NA,NA,NA,NA,NA
+"279",279,"Mimosa dolens var. pseudorigida",NA,NA,NA,NA,NA,NA,NA
+"280",280,"Mimosa emoryana var. emoryana",NA,NA,NA,NA,NA,"Mexico.United States","Coahuila.Durango.Chihuahua.Texas.Coahuila de zaragoza"
+"281",281,"Mimosa emoryana var. chihuahuana",NA,NA,NA,NA,NA,"Mexico","Chihuahua.Coahuila de zaragoza.Coahuila"
+"282",282,"Mimosa somnians var. aquatica",NA,NA,NA,NA,NA,"Brazil","Mato Grosso"
+"283",283,"Mimosa somnians var. possensis",NA,NA,NA,NA,NA,"Brazil","Goiás.Go"
+"284",284,"Mimosa somnians var. longipes",NA,NA,NA,NA,NA,"Brazil","Bahia.Tocantins.To"
+"285",285,"Mimosa somnians var. deminuta",NA,NA,NA,NA,NA,"Venezuela","Amazonas.Bolívar.Bolivar"
+"286",286,"Mimosa somnians var. leptocaulis",NA,NA,NA,NA,NA,"Brazil","Goiás.Distrito Federal.Tocantins.Mato Grosso do Sul.Minas Gerais.São Paulo.Mato Grosso.Bahia.Df.Go.Ma"
+"287",287,"Mimosa oblonga var. pinetorum",NA,NA,NA,NA,NA,"Brazil","Paraná.Santa Catarina"
+"288",288,"Mimosa pilulifera var. pilulifera",NA,NA,NA,NA,NA,"Brazil.Argentina.Uruguay","Paraná.Rio Grande do Sul.Buenos Aires.Entre Ríos"
+"289",289,"Mimosa calocephala var. calocephala",NA,NA,NA,NA,NA,"Brazil","Minas Gerais"
+"290",290,"Mimosa calocephala var. pohlii",NA,NA,NA,NA,NA,"Brazil","Mg"
+"291",291,"Mimosa distans subsp. distans",NA,NA,NA,NA,NA,"Brazil","Minas Gerais.Goiás.Tocantins.Bahia.Mato Grosso do Sul.Piauí.Santa Catarina.São Paulo.Mato Grosso.Ceará.Paraná.Go.Mg"
+"292",292,"Mimosa distans var. quadripinna",NA,NA,NA,NA,NA,"Brazil","Distrito Federal"
+"293",293,"Mimosa distans var. paraguariensis",NA,NA,NA,NA,NA,"Paraguay","Caaguazú"
+"294",294,"Mimosa distans var. planaltinae",NA,NA,NA,NA,NA,"Brazil","Distrito Federal.Goiás.Df"
+"295",295,"Mimosa distans subsp. elongata",NA,NA,NA,NA,NA,NA,NA
+"296",296,"Mimosa dutrae var. major",NA,NA,NA,NA,NA,NA,NA
+"297",297,"Mimosa dutrae var. dutrae",NA,NA,NA,NA,NA,NA,NA
+"298",298,"Mimosa bombycina var. pluriceps",NA,NA,NA,NA,NA,NA,NA
+"299",299,"Mimosa bombycina var. bombycina",NA,NA,NA,NA,NA,"Brazil","Minas Gerais.Mg"
+"300",300,"Mimosa diversipila var. diversipila",NA,NA,NA,NA,NA,"Paraguay.Argentina.Brazil","Amambay.Paraguarí.Misiones.Corrientes.Caaguazú.Guairá.Mato Grosso do Sul"
+"301",301,"Mimosa diversipila var. subglabriseta",NA,NA,NA,NA,NA,"Argentina.Paraguay","Misiones.Itapúa"
+"302",302,"Mimosa myriadenia var. dispersa",NA,NA,NA,NA,NA,"Suriname.Brazil.Colombia.Equador.Venezuela.Panama.Peru.French Guyana.Guyana Francesa","Pará.Antioquia.Amazonas.Zamora-Chinchipe.Napo.Veraguas.Pastaza.Huánuco.Chocó.Valle del Cauca"
+"303",303,"Mimosa myriadenia var. myriadenia",NA,NA,NA,NA,NA,"Guyana.Colombia.Brazil.Suriname.Venezuela.French Guyana.Costa Rica.British Guyana [Guyana].Guyana Francesa","Cuyuni-Mazaruni.Valle del Cauca.Amazonas.Amapá.Pará.Potaro-Siparuni.Saint-Laurent-du-Maroni.Demerara-Mahaica.Para.Delta Amacuro.U. Demerara-Berbice.Upper Takutu-Upper Essequibo.Bolívar.Puntarenas.San José.Norte de Santander.Meta.Rondônia.Brokopondo.Zanderij"
+"304",304,"Mimosa myriadenia var. egena",NA,NA,NA,NA,NA,"Brazil.Peru","Amazonas.Loreto.Huánuco.Pará"
+"305",305,"Mimosa myriadenia var. desquamata",NA,NA,NA,NA,NA,"Peru.Brazil.Equador.Colombia","Amazonas.Napo.Chocó"
+"306",306,"Mimosa nossibiensis var. pubescens",NA,NA,NA,NA,NA,"Madagascar","Antsiranana.Mahajanga"
+"307",307,"Mimosa skinneri var. minima",NA,NA,NA,NA,NA,"Brazil",NA
+"308",308,"Mimosa skinneri var. skinneri",NA,NA,NA,NA,NA,"Mexico.Costa Rica.Nicaragua.El Salvador.México","Chiapas.Nayarit.Guanacaste.San José.Alajuela.Tabasco.Heredia.Jalisco.Chontales.Oaxaca.Ahuachapan.Boaco"
+"309",309,"Mimosa skinneri var. carajarum",NA,NA,NA,NA,NA,"Brazil","Pará"
+"310",310,"Mimosa polycarpa var. polycarpa",NA,NA,NA,NA,NA,"Peru.Brazil.Paraguay","Cajamarca.Mato Grosso do Sul.Caaguazu.Rio Grande do Sul"
+"311",311,"Mimosa polycarpa var. spegazzinii",NA,NA,NA,NA,NA,"Argentina.Paraguay.Brazil.Bolivia","Mato Grosso do Sul.Rondônia.Paraná.Central.Mato Grosso.Concepción.Paraguarí.Santa Cruz.Misiones.San Pedro.São Paulo.Amambay.Ms.Presidente Hayes.Corrientes"
+"312",312,"Mimosa gracilis subsp. capillipes",NA,NA,NA,NA,NA,NA,NA
+"313",313,"Mimosa gracilis subsp. gracilis",NA,NA,NA,NA,NA,NA,NA
+"314",314,"Mimosa gracilis var. filiformis",NA,NA,NA,NA,NA,"Brazil.Paraguay","Goiás.Caaguazú.Itapúa.Minas Gerais.Go.Paraná.São Paulo.Rio Grande do Sul.Mato Grosso do Sul"
+"315",315,"Mimosa iperoensis var. paradenia",NA,NA,NA,NA,NA,"Paraguay","Canindeyú"
+"316",316,"Mimosa iperoensis var. iperoensis",NA,NA,NA,NA,NA,"Paraguay.Brazil","Paraná.São Paulo"
+"317",317,"Mimosa hypoglauca var. syncollandra",NA,NA,NA,NA,NA,"Brazil","Goiás.Go.Df"
+"318",318,"Mimosa hypoglauca var. dawsonii",NA,NA,NA,NA,NA,"Brazil","Goiás.Df.Go"
+"319",319,"Mimosa invisa var. macrostachya",NA,NA,NA,NA,NA,"Brazil","São Paulo.Minas Gerais.Rio de Janeiro"
+"320",320,"Mimosa invisa subsp. spiciflora",NA,NA,NA,NA,NA,NA,NA
+"321",321,"Mimosa invisa var. tovarensis",NA,NA,NA,NA,NA,"Venezuela","Táchira"
+"322",322,"Mimosa invisa subsp. invisa",NA,NA,NA,NA,NA,NA,NA
+"323",323,"Mimosa acutistipula var. ferrea",NA,NA,NA,NA,NA,"Brazil","Pará.Maranhão.Amazonas"
+"324",324,"Mimosa paraguariae var. paraguariae",NA,NA,NA,NA,NA,"Brazil.Argentina.Paraguay","Paraná.Misiones.Corrientes.Canindeyú.Cordillera"
+"325",325,"Mimosa paraguariae var. multiglandulosa",NA,NA,NA,NA,NA,NA,NA
+"326",326,"Mimosa paraguariae var. tomentosa",NA,NA,NA,NA,NA,"Paraguay","Canindeyú"
+"327",327,"Mimosa annularis var. odora",NA,NA,NA,NA,NA,"Brazil","Amapá"
+"328",328,"Mimosa annularis var. annularis",NA,NA,NA,NA,NA,"Colombia.Brazil.Equador","Mato Grosso.Napo"
+"329",329,"Mimosa annularis var. xinguensis",NA,NA,NA,NA,NA,"Peru.French Guyana.Brazil.Colombia.Guyana Francesa.Guyana","Pará.Caquetá.Loreto.Amazonas.Cayenne.Amapá"
+"330",330,"Mimosa microcephala var. communis",NA,NA,NA,NA,NA,"Venezuela.Colombia.Brazil","Bolívar.Guainía.Amazonas.Roraima.Minas Gerais"
+"331",331,"Mimosa microcephala var. mituensis",NA,NA,NA,NA,NA,"Venezuela.Colombia","Amazonas.Vaupés"
+"332",332,"Mimosa microcephala subsp. microcephala",NA,NA,NA,NA,NA,"Venezuela.Colombia","Amazonas.Bolívar.Vichada"
+"333",333,"Mimosa microcephala var. lumaria",NA,NA,NA,NA,NA,"Venezuela.Guyana","Bolívar.Upper Takutu-Upper Essequibo.U. Takutu-U. Essequibo.Bolivar.Amazonas"
+"334",334,"Mimosa microcephala subsp. cataractae",NA,NA,NA,NA,NA,NA,NA
+"335",335,"Mimosa adamantina var. hebecarpa",NA,NA,NA,NA,NA,"Brazil","Minas Gerais"
+"336",336,"Mimosa debilis var. parapitiensis",NA,NA,NA,NA,NA,"Paraguay.Bolivia","Alto Paraguay.Santa Cruz"
+"337",337,"Mimosa debilis var. angusta",NA,NA,NA,NA,NA,"Brazil","Mato Grosso do Sul.Tocantins"
+"338",338,"Mimosa debilis var. aequatoriana",NA,NA,NA,NA,NA,"Equador","Guayas.Loja"
+"339",339,"Mimosa debilis var. amnis-mortium",NA,NA,NA,NA,NA,"Brazil","Mato Grosso.Goiás"
+"340",340,"Mimosa rubicaulis subsp. rubicaulis",NA,NA,NA,NA,NA,NA,NA
+"341",341,"Mimosa foliolosa var. rigens",NA,NA,NA,NA,NA,"Brazil","Goiás.Minas Gerais"
+"342",342,"Mimosa foliolosa subsp. foliolosa",NA,NA,NA,NA,NA,"Brazil","Goiás.Distrito Federal.Tocantins.Minas Gerais.Df"
+"343",343,"Mimosa foliolosa var. cercadoensis",NA,NA,NA,NA,NA,"Brazil","Tocantins.Goiás.To.Go"
+"344",344,"Mimosa foliolosa var. brevipinna",NA,NA,NA,NA,NA,"Brazil","Go"
+"345",345,"Mimosa foliolosa var. corpulenta",NA,NA,NA,NA,NA,"Brazil","Minas Gerais.Goiás"
+"346",346,"Mimosa foliolosa subsp. brevibractea",NA,NA,NA,NA,NA,NA,NA
+"347",347,"Mimosa macedoana var. glabrescens",NA,NA,NA,NA,NA,"Brazil","Minas Gerais"
+"348",348,"Mimosa macedoana var. macedoana",NA,NA,NA,NA,NA,"Brazil","Minas Gerais"
+"349",349,"Mimosa extensa var. extensa",NA,NA,NA,NA,NA,"Brazil","Rio de Janeiro.Espírito Santo.Bahia"
+"350",350,"Mimosa extensa var. annae",NA,NA,NA,NA,NA,NA,NA
+"351",351,"Mimosa leprosa var. leprosa",NA,NA,NA,NA,NA,"Brazil","Minas Gerais"
+"352",352,"Mimosa claussenii var. soderstromii",NA,NA,NA,NA,NA,"Brazil","Distrito Federal.Goiás"
+"353",353,"Mimosa claussenii var. dolichopoda",NA,NA,NA,NA,NA,"Brazil","Distrito Federal"
+"354",354,"Mimosa claussenii var. pumila",NA,NA,NA,NA,NA,"Brazil","Goiás.Distrito Federal"
+"355",355,"Mimosa claussenii var. vespertilionis",NA,NA,NA,NA,NA,"Brazil","Goiás"
+"356",356,"Mimosa sensitiva var. malitiosa",NA,NA,NA,NA,NA,"Brazil","Minas Gerais.Bahia.Espírito Santo"
+"357",357,"Mimosa xanthocentra var. longepetiolata",NA,NA,NA,NA,NA,"Paraguay.Brazil","Amambay.Mato Grosso"
+"358",358,"Mimosa xanthocentra var. miseranda",NA,NA,NA,NA,NA,"Brazil","Mato Grosso do Sul"
+"359",359,"Mimosa xanthocentra var. xanthocentra",NA,NA,NA,NA,NA,"Brazil.Paraguay.Costa Rica.Bolivia.Peru.Argentina.Venezuela.Colombia","Rondônia.Maranhão.Goiás.Minas Gerais.Guanacaste.Mato Grosso.Tarija.Santa Cruz.Chuquisaca.Amambay.Cajamarca.Concepción.Jujuy.Salta.Boquerón.Tocantins.Mato Grosso do Sul.Rio de Janeiro.Espírito Santo.Cordillera.San Pedro.Central.Cochabamba.Táchira.Cauca.Pará.São Paulo.Ceará.Beni.Ms.Ma.Rj.Go.To.Paraná.Piauí"
+"360",360,"Mimosa xanthocentra var. exilis",NA,NA,NA,NA,NA,"Brazil","Distrito Federal"
+"361",361,"Mimosa acantholoba var. acantholoba",NA,NA,NA,NA,NA,"Equador.Nicaragua.Mexico.Honduras.Peru.Costa Rica","Loja.Esteli.Nayarit.Oaxaca.Guayas.Manabí.Choluteca.Tumbes.Guanacaste.Piura.Jalisco.Guerrero"
+"362",362,"Mimosa acantholoba var. molinarum",NA,NA,NA,NA,NA,"Mexico.Honduras","Chiapas.Choluteca.Francisco Morazán"
+"363",363,"Mimosa acantholoba var. seticuspis",NA,NA,NA,NA,NA,"El Salvador","Santa Ana"
+"364",364,"Mimosa amambayensis var. glabrata",NA,NA,NA,NA,NA,NA,NA
+"365",365,"Mimosa amambayensis var. amambayensis",NA,NA,NA,NA,NA,NA,NA
+"366",366,"Mimosa distachya var. chamelae",NA,NA,NA,NA,NA,"Mexico","Colima.Jalisco"
+"367",367,"Mimosa macrocalyx var. pectinata",NA,NA,NA,NA,NA,"Brazil","Santa Catarina"
+"368",368,"Mimosa macrocalyx var. macrocalyx",NA,NA,NA,NA,NA,"Brazil.Argentina","Paraná.Corrientes"
+"369",369,"Mimosa albida var. pochutlensis",NA,NA,NA,NA,NA,"Mexico","Oaxaca.Guerrero"
+"370",370,"Mimosa albida var. willdenowii",NA,NA,NA,NA,NA,"Colombia.Equador.Venezuela.Peru.Germany","Caquetá.Antioquia.Distrito Capital.Magdalena.Táchira.Loja.Trujillo.Manabí.Pichincha.Cusco.Carabobo.Imbabura.Carchi.Cauca.Miranda.Azuay.Nordrhein-Westfalen.Norte de Santander.Boyacá.Meta.Valle del Cauca.Risaralda.Prov. Pichincha"
+"371",371,"Mimosa albida var. glabrior",NA,NA,NA,NA,NA,"Mexico.Nicaragua.Guatemala.El Salvador.Honduras","Oaxaca.Chiapas.Guerrero.Jalisco.Sinaloa.Managua.Masaya.Veracruz de ignacio de la llave.Michoacán.Chontales.Quiché.Boaco.Huehuetenango.San Salvador.León.Tabasco.Michoacan de ocampo.Colima.Ahuachapan.Jinotega.Santa Bárbara"
+"372",372,"Mimosa pigra var. pigra",NA,NA,NA,NA,NA,"Venezuela.Brazil.Paraguay.Mexico.Nicaragua.Guyana.Peru.Costa Rica.Equador.Bolivia.Colombia.Argentina.Panama.El Salvador.Belize.Honduras.Guatemala.French Guyana.Guyana Francesa","Amazonas.Roraima.Bahia.Central.Pará.Veracruz de ignacio de la llave.Tabasco.Esteli.Rondônia.Paraná.Maranhão.Acre.Ceará.Amapá.Essequibo Islands-West Demerara.Potaro-Siparuni.San Martín.Sergipe.Matagalpa.Chiapas.Estelí.Río San Juan.Mato Grosso do Sul.Mato Grosso.Leon.Limon.Granada.Chontales.Anzoátegui.Los Ríos.El Beni.La Paz.Nueva Segovia.León.Loreto.Goiás.São Paulo.Minas Gerais.Tocantins.Itapúa.Rivas.Cusco.Atlántico Norte.Esmeraldas.Antioquia.Rio de Janeiro.Córdoba.Oaxaca.Presidente Hayes.Boaco.Jinotega.Puntarenas.Alajuela.Limón.Guanacaste.Cartago.San José.Jalisco.Nueva segovia.Campeche.Chiriqui.Beni.San Salvador.Atlántico Sur.Formosa.Corrientes.Misiones.Chaco.Buenos Aires.Rio Grande do Norte.Espírito Santo.Toledo.Upper Takutu-Upper Essequibo.Guayas.Delta Amacuro.Pando.Belize.Colima.Rio san juan.El Oro.Piauí.Quintana roo.Francisco morazan.Pernambuco.El progreso.Ahuachapan.Yoro.Zacapa.Francisco Morazán.Managua.Canal Area.Paraguarí.Bolívar.La Libertad.Guerrero.Santa Cruz.Ma.Go.To.Ro.Paraíba"
+"373",373,"Mimosa sensibilis var. aquidabani",NA,NA,NA,NA,NA,"Paraguay.Brazil","Amambay.Mato Grosso do Sul"
+"374",374,"Mimosa sensibilis var. urucumensis",NA,NA,NA,NA,NA,"Brazil.Paraguay","Mato Grosso do Sul.Alto Paraguay.São Paulo.Paraná.Ms.Mato Grosso"
+"375",375,"Mimosa sensibilis var. sensibilis",NA,NA,NA,NA,NA,"Bolivia.Argentina.Brazil","Santa Cruz.Chuquisaca.Mato Grosso do Sul"
+"376",376,"Mimosa lanuginosa var. raduliformis",NA,NA,NA,NA,NA,"Brazil","Distrito Federal"
+"377",377,"Mimosa pudica var. tetrandra",NA,NA,NA,NA,NA,"Costa Rica.Colombia.Venezuela.Brazil.Guyana.French Guyana.Mexico.Gabon.Papua New Guinea.Australia.Argentina.Indonesia.Malaysia.New Caledonia.Guyana Francesa","Cartago.São Paulo.Bahia.Sergipe.U. Takutu-U. Essequibo.Mato Grosso do Sul.Amazonas.Potaro-Siparuni.Upper Takutu-Upper Essequibo.Alajuela.Bolívar.Valle del Cauca.Roraima.Veracruz.Cundinamarca.Espírito Santo.Miranda.Rio de Janeiro.Estuaire.Queensland.Santa Catarina.Oaxaca.Vaupés.Cayenne.Antioquia.Chiapas.Pernambuco.Guárico.Distrito Capital.Corrientes.Arauca.Chocó.Rio Grande do Sul.Ba.Paraná.Maranhão.Sumatra.Borneo.U. Demerara-Berbice.New Caledonia"
+"378",378,"Mimosa pudica var. pudica",NA,NA,NA,NA,NA,"Costa Rica.Gabon.Guyana.Guyana Francesa.Brazil","Puntarenas.San José.Limón.Guanacaste.Alajuela.Estuaire.Potaro-Siparuni.Bahia"
+"379",379,"Mimosa pudica var. pastoris",NA,NA,NA,NA,NA,NA,NA
+"380",380,"Mimosa pringlei var. pringlei",NA,NA,NA,NA,NA,"Mexico","Chihuahua"
+"381",381,"Mimosa pringlei var. graminetorum",NA,NA,NA,NA,NA,"Mexico","Durango"
+"382",382,"Mimosa chrysastra var. itambeana",NA,NA,NA,NA,NA,"Brazil","Minas Gerais"
+"383",383,"Mimosa chrysastra var. chrysastra",NA,NA,NA,NA,NA,"Brazil","Minas Gerais"
+"384",384,"Mimosa paupera var. paupera",NA,NA,NA,NA,NA,"Brazil.Paraguay.Argentina","Paraná.Rio Grande do Sul.Mato Grosso do Sul.Misiones.Entre Ríos.Corrientes.Caazapá"
+"385",385,"Mimosa paupera var. dives",NA,NA,NA,NA,NA,"Brazil.Paraguay","Mato Grosso do Sul.Amambay"
+"386",386,"Mimosa monticola var. schwackeana",NA,NA,NA,NA,NA,"Brazil","Rio de Janeiro.Rj"
+"387",387,"Mimosa monticola var. monticola",NA,NA,NA,NA,NA,"Brazil","Rio de Janeiro.São Paulo.Minas Gerais"
+"388",388,"Mimosa phyllodinea var. phyllodinea",NA,NA,NA,NA,NA,"Brazil","Goiás.Minas Gerais.Go"
+"389",389,"Mimosa phyllodinea var. phyllorrhoea",NA,NA,NA,NA,NA,"Brazil","Minas Gerais.Goiás"
+"390",390,"Mimosa regnellii var. supersetosa",NA,NA,NA,NA,NA,"Brazil","Paraná.Santa Catarina.São Paulo"
+"391",391,"Mimosa regnellii var. regnellii",NA,NA,NA,NA,NA,"Brazil","Santa Catarina.Paraíba.Minas Gerais.São Paulo"
+"392",392,"Mimosa regnellii var. exuta",NA,NA,NA,NA,NA,"Brazil","Santa Catarina.Paraná.Rio Grande do Sul"
+"393",393,"Mimosa grahamii var. grahamii",NA,NA,NA,NA,NA,"United States.Mexico","Arizona.Jalisco.New Mexico.Sonora.Queretaro de arteaga.Guanajuato"
+"394",394,"Mimosa grahamii var. prolifica",NA,NA,NA,NA,NA,"Mexico","Chihuahua"
+"395",395,"Mimosa micropteris var. pungens",NA,NA,NA,NA,NA,"Brazil","Paraná.Santa Catarina"
+"396",396,"Mimosa bifurca var. desmanthoides",NA,NA,NA,NA,NA,"Argentina.Brazil","Misiones.São Paulo.Rio Grande do Sul"
+"397",397,"Mimosa bifurca var. bifurca",NA,NA,NA,NA,NA,"Argentina.Brazil.Paraguay","Corrientes.Rio Grande do Sul.Paraná"
+"398",398,"Mimosa bifurca var. reducta",NA,NA,NA,NA,NA,"Brazil.Paraguay","Paraná"
+"399",399,"Mimosa bifurca var. hassleriana",NA,NA,NA,NA,NA,"Paraguay.Argentina.Brazil","Paraguarí.Cordillera.Misiones.Rio Grande do Sul"
+"400",400,"Mimosa brevipetiolata var. brevipetiolata",NA,NA,NA,NA,NA,"Argentina.Paraguay.Brazil","Misiones.Paraguarí.Rio Grande do Sul"
+"401",401,"Mimosa brevipetiolata var. pauperoides",NA,NA,NA,NA,NA,NA,NA
+"402",402,"Mimosa diplotricha var. odibilis",NA,NA,NA,NA,NA,"Mexico","Sonora.Michoacán"
+"403",403,"Mimosa insidiosa var. major",NA,NA,NA,NA,NA,"Brazil","Minas Gerais"
+"404",404,"Mimosa insidiosa var. insidiosa",NA,NA,NA,NA,NA,"Brazil","São Paulo.Minas Gerais"
+"405",405,"Mimosa guilandinae var. cuatrecasasii",NA,NA,NA,NA,NA,"Peru.Equador.Colombia","Sucumbíos.Pastaza.Caquetá.Morona-Santiago.Napo"
+"406",406,"Mimosa guilandinae var. spruceana",NA,NA,NA,NA,NA,"Brazil.Peru","Amazonas.Loreto.Rondônia.Pará.Am.Ro.Acre.Amapá"
+"407",407,"Mimosa guilandinae var. paterata",NA,NA,NA,NA,NA,"Costa Rica.Colombia.Peru.Mexico.Brazil","Limon.Limón.Antioquia.Chocó.Veracruz de ignacio de la llave.Amazonas"
+"408",408,"Mimosa guilandinae var. duckei",NA,NA,NA,NA,NA,"Brazil.Suriname","Amapá.Pará.Amazonas.Brokopondo"
+"409",409,"Mimosa guilandinae var. extensissima",NA,NA,NA,NA,NA,"Peru.Brazil.Equador.Mexico","Pasco.Acre.San Martín.Loreto.Amazonas.Veracruz.Rondônia.Oaxaca"
+"410",410,"Mimosa menabeensis var. lapiazicola",NA,NA,NA,NA,NA,"Madagascar","Antsiranana.Mahajanga"
+"411",411,"Mimosa setosa var. metadenotricha",NA,NA,NA,NA,NA,"Brazil","Distrito Federal"
+"412",412,"Mimosa rufescens var. rufescens",NA,NA,NA,NA,NA,"Brazil.Bolivia.Equador.Venezuela.Peru.Guyana","Pará.Amazonas.Pando.Morona-Santiago.Acre.Loreto.Cuyuni-Mazaruni.El Beni.Rondônia.Bolívar.La Páz.Napo.Pastaza.Madre de Díos.Ro.Pa"
+"413",413,"Mimosa rufescens var. amnis-nigri",NA,NA,NA,NA,NA,"Venezuela.Brazil","Amazonas"
+"414",414,"Mimosa platycarpa var. liesneri",NA,NA,NA,NA,NA,"Costa Rica","Guanacaste"
+"415",415,"Mimosa dryandroides var. dryandroides",NA,NA,NA,NA,NA,"Brazil","Paraná.Minas Gerais.São Paulo"
+"416",416,"Mimosa arenosa var. lysalgica",NA,NA,NA,NA,NA,"Brazil","Minas Gerais"
+"417",417,"Mimosa arenosa var. arenosa",NA,NA,NA,NA,NA,"Brazil.Venezuela.Puerto Rico","Bahia.Minas Gerais.Pernambuco.Rio Grande do Norte.Ceará.Miranda.Puerto Rico.Anzoátegui.Bolívar.Lara.Paraíba.Sergipe.Rio de Janeiro.Ba.Mg.Pará.Vargas.São Paulo"
+"418",418,"Mimosa occidentalis var. novogaliciana",NA,NA,NA,NA,NA,"Mexico","Jalisco.Nayarit"
+"419",419,"Mimosa schrankioides var. sagotiana",NA,NA,NA,NA,NA,"Brazil.Peru.Venezuela.Colombia","Amazonas.Loreto.Apure.Magdalena.Pará"
+"420",420,"Mimosa schrankioides var. schrankioides",NA,NA,NA,NA,NA,"Brazil.Venezuela","Roraima.Bolívar.Aragua.Carabobo"
+"421",421,"Mimosa hirsutissima var. hirsutissima",NA,NA,NA,NA,NA,"Brazil.Venezuela.Paraguay.Argentina.Nicaragua.Peru","Minas Gerais.São Paulo.Paraíba.Bolívar.Goiás.Tocantins.Ceará.Alto Paraná.Piauí.Mato Grosso do Sul.Guárico.Misiones.Amazonas.Atlántico Norte.Itapúa.Cusco.Rio Grande do Norte.Caaguazú.Apure.Pernambuco.Distrito Federal.Maranhão.Bahia.Go.To.Pi.Mg.Pb.Mato Grosso"
+"422",422,"Mimosa quadrivalvis var. angustata",NA,NA,NA,NA,NA,"United States.Colombia.Brazil","North Carolina.South Carolina.Florida.Alabama.Georgia.Texas.Kentucky.Mississippi.Virginia.Louisiana.Tennessee.South carolina.Arkansas.New Mexico.Santander.Minas Gerais"
+"423",423,"Mimosa quadrivalvis var. jaliscensis",NA,NA,NA,NA,NA,"Mexico","Jalisco.Guerrero.Chihuahua.Nayarit.Sinaloa"
+"424",424,"Mimosa quadrivalvis var. platycarpa",NA,NA,NA,NA,NA,"United States","Texas"
+"425",425,"Mimosa quadrivalvis var. quadrivalvis",NA,NA,NA,NA,NA,"Mexico","Nayarit.Veracruz.Veracruz de ignacio de la llave"
+"426",426,"Mimosa quadrivalvis var. urbaniana",NA,NA,NA,NA,NA,NA,NA
+"427",427,"Mimosa quadrivalvis var. diffusa",NA,NA,NA,NA,NA,"Mexico","Sinaloa.Jalisco.Colima.Nayarit"
+"428",428,"Neptunia gracilis f. gracilis",NA,NA,NA,NA,NA,NA,NA
+"429",429,"Neptunia gracilis f. glandulosa",NA,NA,NA,NA,NA,NA,NA
+"430",430,"Neptunia pubescens var. pubescens",NA,NA,NA,NA,NA,NA,NA
+"431",431,"Neptunia pubescens var. microcarpa",NA,NA,NA,NA,NA,NA,NA
+"432",432,"Neptunia amplexicaulis f. richmondii",NA,NA,NA,NA,NA,NA,NA
+"433",433,"Neptunia amplexicaulis f. amplexicaulis",NA,NA,NA,NA,NA,NA,NA
